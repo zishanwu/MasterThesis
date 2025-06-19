@@ -1,0 +1,1669 @@
+Trait_id	Trait	Category	Category_id
+PPTO:0000004	biochemical trait	biochemical trait	PPTO:0000004
+PPTO:0000005	plant quality trait	plant quality trait	PPTO:0000005
+PPTO:0000006	plant growth and development trait	plant growth and development trait	PPTO:0000006
+PPTO:0000008	biological process trait	biological process trait	PPTO:0000008
+PPTO:0000009	plant morphology trait	plant morphology trait	PPTO:0000009
+PPTO:0000010	yield trait	yield trait	PPTO:0000010
+PPTO:0000011	plant vigor trait	plant vigor trait	PPTO:0000011
+PPTO:0000012	sterility or fertility trait	sterility or fertility trait	PPTO:0000012
+PPTO:0000007	biotic stress trait	biotic stress trait	PPTO:0000007
+PPTO:0000013	abiotic stress trait	abiotic stress trait	PPTO:0000013
+PPTO:0000101	abscisic acid content	biochemical trait	PPTO:0000004
+PPTO:0000102	abscisic acid glucose ester content	biochemical trait	PPTO:0000004
+PPTO:0000103	acid detergent fiber	plant quality trait	PPTO:0000005
+PPTO:0000104	anthesis silking interval	plant growth and development trait	PPTO:0000006
+PPTO:0000105	cellulose content	biochemical trait	PPTO:0000004
+PPTO:0000106	common rust severity	biotic stress trait	PPTO:0000007
+PPTO:0000108	silking time	plant growth and development trait	PPTO:0000006
+PPTO:0000109	dry mass of ear	biological process trait	PPTO:0000008
+PPTO:0000110	dry mass of silk	biological process trait	PPTO:0000008
+PPTO:0000111	ear infructescence position	plant morphology trait	PPTO:0000009
+PPTO:0000112	ear length	plant morphology trait	PPTO:0000009
+PPTO:0000113	ear weight	plant morphology trait	PPTO:0000009
+PPTO:0000114	glucose content	biochemical trait	PPTO:0000004
+PPTO:0000115	grain yield per plant	yield trait	PPTO:0000010
+PPTO:0000116	hemicellulose content	biochemical trait	PPTO:0000004
+PPTO:0000117	100-grain weight	plant morphology trait	PPTO:0000009
+PPTO:0000118	in vitro dry matter digestibility	plant quality trait	PPTO:0000005
+PPTO:0000119	kernel number per row	yield trait	PPTO:0000010
+PPTO:0000120	leaf flecking	biotic stress trait	PPTO:0000007
+PPTO:0000121	lignin content	biochemical trait	PPTO:0000004
+PPTO:0000122	mole fraction of glucose per total sugar	biochemical trait	PPTO:0000004
+PPTO:0000123	mole fraction of sucrose per total sugar	biochemical trait	PPTO:0000004
+PPTO:0000124	neutral detergent fiber	plant quality trait	PPTO:0000005
+PPTO:0000125	phaseic acid content	biochemical trait	PPTO:0000004
+PPTO:0000126	plant height	plant morphology trait	PPTO:0000009
+PPTO:0000127	plant survival rate under drought stress	abiotic stress trait	PPTO:0000013
+PPTO:0000128	proline content	biochemical trait	PPTO:0000004
+PPTO:0000129	specific leaf weight	biological process trait	PPTO:0000008
+PPTO:0000130	starch content	biochemical trait	PPTO:0000004
+PPTO:0000131	sucrose content	biochemical trait	PPTO:0000004
+PPTO:0000132	the amount of aflatoxin	plant quality trait	PPTO:0000005
+PPTO:0000133	the biovolume of plants	plant morphology trait	PPTO:0000009
+PPTO:0000134	the coefficients of variation of days to anthesis	plant growth and development trait	PPTO:0000006
+PPTO:0000135	the coefficients of variation of days to silking	plant growth and development trait	PPTO:0000006
+PPTO:0000136	husk thickness	plant morphology trait	PPTO:0000009
+PPTO:0000137	husk width	plant morphology trait	PPTO:0000009
+PPTO:0000138	husk number	plant morphology trait	PPTO:0000009
+PPTO:0000139	the score of resistance to aspergillus flavus infection	biotic stress trait	PPTO:0000007
+PPTO:0000140	total sugars content	biochemical trait	PPTO:0000004
+PPTO:0000142	stem rot disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0000143	first flower trait	plant growth and development trait	PPTO:0000006
+PPTO:0000144	flower color	plant morphology trait	PPTO:0000009
+PPTO:0000145	disease severity index	biotic stress trait	PPTO:0000007
+PPTO:0000146	hilum color	plant morphology trait	PPTO:0000009
+PPTO:0000147	inoculated root rot score	biotic stress trait	PPTO:0000007
+PPTO:0000148	inoculated root weight	biotic stress trait	PPTO:0000007
+PPTO:0000149	leaf chlorophyll content	plant morphology trait	PPTO:0000009
+PPTO:0000150	leaf scorch score	abiotic stress trait	PPTO:0000013
+PPTO:0000151	leaflet shape trait	plant morphology trait	PPTO:0000009
+PPTO:0000152	mexican bean beetle	biotic stress trait	PPTO:0000007
+PPTO:0000153	stem node number	plant morphology trait	PPTO:0000009
+PPTO:0000154	number of days from flowering to maturity	plant growth and development trait	PPTO:0000006
+PPTO:0000155	days to flowering trait	plant growth and development trait	PPTO:0000006
+PPTO:0000156	days to maturity	plant growth and development trait	PPTO:0000006
+PPTO:0000157	photochemical reflectance index (pri) value	biological process trait	PPTO:0000008
+PPTO:0000158	lesion length	biotic stress trait	PPTO:0000007
+PPTO:0000159	plant severity score	biotic stress trait	PPTO:0000007
+PPTO:0000160	plant wilt score	biotic stress trait	PPTO:0000007
+PPTO:0000161	pod number per plant	plant morphology trait	PPTO:0000009
+PPTO:0000162	potato leafhopper	biotic stress trait	PPTO:0000007
+PPTO:0000163	pubescence color trait	plant morphology trait	PPTO:0000009
+PPTO:0000164	leaf lamina pubescence density	plant morphology trait	PPTO:0000009
+PPTO:0000165	seed coat color	plant morphology trait	PPTO:0000009
+PPTO:0000166	linoleic acid content	biochemical trait	PPTO:0000004
+PPTO:0000167	alpha-linolenic acid content	biochemical trait	PPTO:0000004
+PPTO:0000168	number of seeds	plant morphology trait	PPTO:0000009
+PPTO:0000170	oleic acid content	biochemical trait	PPTO:0000004
+PPTO:0000171	seed palmitic acid content	biochemical trait	PPTO:0000004
+PPTO:0000172	seed protein composition trait	biochemical trait	PPTO:0000004
+PPTO:0000173	seed protein content trait	biochemical trait	PPTO:0000004
+PPTO:0000174	stearic acid content	biochemical trait	PPTO:0000004
+PPTO:0000175	seed weight	plant morphology trait	PPTO:0000009
+PPTO:0000176	seed yield trait	yield trait	PPTO:0000010
+PPTO:0000177	reaction to tobacco ringspot virus infection	biotic stress trait	PPTO:0000007
+PPTO:0000178	soybean aphid	biotic stress trait	PPTO:0000007
+PPTO:0000179	soybean cyst nematode damage	biotic stress trait	PPTO:0000007
+PPTO:0000180	soybean looper	biotic stress trait	PPTO:0000007
+PPTO:0000181	reaction to soybean mosaic virus infection	biotic stress trait	PPTO:0000007
+PPTO:0000182	velvetbean caterpillar	biotic stress trait	PPTO:0000007
+PPTO:0000183	bud period	plant growth and development trait	PPTO:0000006
+PPTO:0000184	fiber elongation	plant quality trait	PPTO:0000005
+PPTO:0000185	fiber length	plant quality trait	PPTO:0000005
+PPTO:0000186	fiber length uniformity	plant quality trait	PPTO:0000005
+PPTO:0000187	fiber maturity	plant quality trait	PPTO:0000005
+PPTO:0000188	fiber strength	plant quality trait	PPTO:0000005
+PPTO:0000189	fiber weight per boll	plant quality trait	PPTO:0000005
+PPTO:0000190	flower and boll period	plant growth and development trait	PPTO:0000006
+PPTO:0000191	branch angle	plant morphology trait	PPTO:0000009
+PPTO:0000192	fruit branch length	plant morphology trait	PPTO:0000009
+PPTO:0000193	growth period	plant growth and development trait	PPTO:0000006
+PPTO:0000194	branch position	plant morphology trait	PPTO:0000009
+PPTO:0000195	lint index	plant quality trait	PPTO:0000005
+PPTO:0000196	lint percentage	plant quality trait	PPTO:0000005
+PPTO:0000197	micronaire value	plant quality trait	PPTO:0000005
+PPTO:0000198	boll weight	plant quality trait	PPTO:0000005
+PPTO:0000199	relative chlorophyll content	biochemical trait	PPTO:0000004
+PPTO:0000200	relative germination rate	plant vigor trait	PPTO:0000011
+PPTO:0000201	relative malondialdehvde content	biochemical trait	PPTO:0000004
+PPTO:0000202	seed harvest index	yield trait	PPTO:0000010
+PPTO:0000203	seedling period	plant growth and development trait	PPTO:0000006
+PPTO:0000204	spinning consistency index	plant quality trait	PPTO:0000005
+PPTO:0000205	12-hydroxy jasmonoyl-isoleucine content	biochemical trait	PPTO:0000004
+PPTO:0000206	12-oxo-phyto-dienoic acid content	biochemical trait	PPTO:0000004
+PPTO:0000207	amylose content	biochemical trait	PPTO:0000004
+PPTO:0000208	angle to the vertical of the root cone	plant morphology trait	PPTO:0000009
+PPTO:0000209	lemma apiculus color	plant morphology trait	PPTO:0000009
+PPTO:0000210	awn length	plant morphology trait	PPTO:0000009
+PPTO:0000211	brown rice rate	plant quality trait	PPTO:0000005
+PPTO:0000212	degree of chalkness	plant quality trait	PPTO:0000005
+PPTO:0000213	chalky grain rate	plant quality trait	PPTO:0000005
+PPTO:0000214	chlorophyll content	biochemical trait	PPTO:0000004
+PPTO:0000215	days from flowering to maturity	plant growth and development trait	PPTO:0000006
+PPTO:0000216	deep root biomass	plant morphology trait	PPTO:0000009
+PPTO:0000217	deep root proportion	plant morphology trait	PPTO:0000009
+PPTO:0000218	deepest point reached by the roots in position in the plates	plant morphology trait	PPTO:0000009
+PPTO:0000219	degree of seed shattering	plant morphology trait	PPTO:0000009
+PPTO:0000220	dihydrojasmonic acid content	biochemical trait	PPTO:0000004
+PPTO:0000221	dual stigma exsertion	plant morphology trait	PPTO:0000009
+PPTO:0000222	flag leaf length	plant morphology trait	PPTO:0000009
+PPTO:0000223	flag leaf lamina width	plant morphology trait	PPTO:0000009
+PPTO:0000224	flavonoid leaf content	biochemical trait	PPTO:0000004
+PPTO:0000225	gel consistency	biochemical trait	PPTO:0000004
+PPTO:0000226	gelatinization temperature	biochemical trait	PPTO:0000004
+PPTO:0000227	germination rate	plant vigor trait	PPTO:0000011
+PPTO:0000228	grain length	plant morphology trait	PPTO:0000009
+PPTO:0000229	grain length to width ratio	plant morphology trait	PPTO:0000009
+PPTO:0000230	average grain weight	plant morphology trait	PPTO:0000009
+PPTO:0000231	grain width	plant morphology trait	PPTO:0000009
+PPTO:0000232	days to heading	plant growth and development trait	PPTO:0000006
+PPTO:0000233	hull color	plant morphology trait	PPTO:0000009
+PPTO:0000234	100-dehulled grain weight	plant morphology trait	PPTO:0000009
+PPTO:0000235	jasmonoyl-alanine content	biochemical trait	PPTO:0000004
+PPTO:0000236	jasmonoyl-isoleucine content	biochemical trait	PPTO:0000004
+PPTO:0000237	jasmonoyl-phenylalanine content	biochemical trait	PPTO:0000004
+PPTO:0000238	jasmonoyl-valine content	biochemical trait	PPTO:0000004
+PPTO:0000239	leaf angle	plant morphology trait	PPTO:0000009
+PPTO:0000240	leaf area trait	plant morphology trait	PPTO:0000009
+PPTO:0000241	leaf lamina width	plant morphology trait	PPTO:0000009
+PPTO:0000242	root length	plant morphology trait	PPTO:0000009
+PPTO:0000243	mesocotyl length	plant morphology trait	PPTO:0000009
+PPTO:0000244	naked seed length	plant morphology trait	PPTO:0000009
+PPTO:0000245	naked seed width	plant morphology trait	PPTO:0000009
+PPTO:0000246	naked seed width to length ratio	plant morphology trait	PPTO:0000009
+PPTO:0000247	nitrogen balance index	plant growth and development trait	PPTO:0000006
+PPTO:0000248	non photochemical quenching	biological process trait	PPTO:0000008
+PPTO:0000249	number of root tips	plant morphology trait	PPTO:0000009
+PPTO:0000250	number of roots reaching 30 cm depth	plant morphology trait	PPTO:0000009
+PPTO:0000251	number of tillers per linear meter	plant morphology trait	PPTO:0000009
+PPTO:0000252	panicle length	plant morphology trait	PPTO:0000009
+PPTO:0000253	panicle number	biological process trait	PPTO:0000008
+PPTO:0000254	panicular node height	plant morphology trait	PPTO:0000009
+PPTO:0000255	pericarp color	plant morphology trait	PPTO:0000009
+PPTO:0000256	plant biomass	plant morphology trait	PPTO:0000009
+PPTO:0000257	protein content	biochemical trait	PPTO:0000004
+PPTO:0000258	sodium to potassium content ratio	biochemical trait	PPTO:0000004
+PPTO:0000259	relative shoot length	plant morphology trait	PPTO:0000009
+PPTO:0000260	root biomass	plant morphology trait	PPTO:0000009
+PPTO:0000261	root cone angle	plant morphology trait	PPTO:0000009
+PPTO:0000262	root dry mass below 30cm	plant morphology trait	PPTO:0000009
+PPTO:0000263	root dry mass in the 00-20cm layer	plant morphology trait	PPTO:0000009
+PPTO:0000264	root dry mass in the 20-30cm layer	plant morphology trait	PPTO:0000009
+PPTO:0000265	root dry weight	plant morphology trait	PPTO:0000009
+PPTO:0000266	root surface area	plant morphology trait	PPTO:0000009
+PPTO:0000267	root to shoot ratio	plant morphology trait	PPTO:0000009
+PPTO:0000268	root volume	plant morphology trait	PPTO:0000009
+PPTO:0000269	score for salt toxicity symptoms	abiotic stress trait	PPTO:0000013
+PPTO:0000270	percent germination	plant vigor trait	PPTO:0000011
+PPTO:0000271	seed length	plant morphology trait	PPTO:0000009
+PPTO:0000273	seed width	plant morphology trait	PPTO:0000009
+PPTO:0000274	seed width to length ratio	plant morphology trait	PPTO:0000009
+PPTO:0000275	seedling length	plant morphology trait	PPTO:0000009
+PPTO:0000276	seedling survival days	abiotic stress trait	PPTO:0000013
+PPTO:0000277	shoot biomass	plant morphology trait	PPTO:0000009
+PPTO:0000278	shoot dry weight	plant morphology trait	PPTO:0000009
+PPTO:0000279	potassium concentration	biochemical trait	PPTO:0000004
+PPTO:0000280	shoot length	plant morphology trait	PPTO:0000009
+PPTO:0000281	shoot system manganese content	biochemical trait	PPTO:0000004
+PPTO:0000282	sodium concentration	biochemical trait	PPTO:0000004
+PPTO:0000283	single stigma exsertion	plant morphology trait	PPTO:0000009
+PPTO:0000284	spikelet length	plant morphology trait	PPTO:0000009
+PPTO:0000285	spikelet number	plant morphology trait	PPTO:0000009
+PPTO:0000286	spikelet thickness	plant morphology trait	PPTO:0000009
+PPTO:0000287	spikelet width	plant morphology trait	PPTO:0000009
+PPTO:0000288	stigma length	plant morphology trait	PPTO:0000009
+PPTO:0000289	style angle	plant morphology trait	PPTO:0000009
+PPTO:0000290	style length	plant morphology trait	PPTO:0000009
+PPTO:0000291	chlorophyll a content	biochemical trait	PPTO:0000004
+PPTO:0000292	chlorophyll b content	biochemical trait	PPTO:0000004
+PPTO:0000293	drought tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0000294	large vascular bundle number	plant morphology trait	PPTO:0000009
+PPTO:0000295	small vascular bundle number	plant morphology trait	PPTO:0000009
+PPTO:0000296	the phloem area of large vascular bundle	plant morphology trait	PPTO:0000009
+PPTO:0000297	the phloem area of small vascular bundle	plant morphology trait	PPTO:0000009
+PPTO:0000298	chlorophyll ratio	biochemical trait	PPTO:0000004
+PPTO:0000299	seed dormancy	plant growth and development trait	PPTO:0000006
+PPTO:0000300	the soil-plant analysis development value	biochemical trait	PPTO:0000004
+PPTO:0000301	the total area of large vascular bundle	plant morphology trait	PPTO:0000009
+PPTO:0000302	the total area of small vascular bundle	plant morphology trait	PPTO:0000009
+PPTO:0000303	the xylem area of large vascular bundle	plant morphology trait	PPTO:0000009
+PPTO:0000304	the xylem area of small vascular bundle	plant morphology trait	PPTO:0000009
+PPTO:0000305	1000-grain weight	plant morphology trait	PPTO:0000009
+PPTO:0000306	tiller number	plant morphology trait	PPTO:0000009
+PPTO:0000307	total stigma exsertion	plant morphology trait	PPTO:0000009
+PPTO:0000308	volume of thick roots	plant morphology trait	PPTO:0000009
+PPTO:0000309	yield of 50 panicles	yield trait	PPTO:0000010
+PPTO:0000310	petal color	plant morphology trait	PPTO:0000009
+PPTO:0000311	stigma color	plant morphology trait	PPTO:0000009
+PPTO:0000312	calyx color	plant morphology trait	PPTO:0000009
+PPTO:0000313	bud color	plant morphology trait	PPTO:0000009
+PPTO:0000314	wood color	plant morphology trait	PPTO:0000009
+PPTO:0000315	staminal filament color	plant morphology trait	PPTO:0000009
+PPTO:0000316	petal number	plant morphology trait	PPTO:0000009
+PPTO:0000317	pistil character	plant morphology trait	PPTO:0000009
+PPTO:0000318	bud aperture	plant morphology trait	PPTO:0000009
+PPTO:0000319	above ear plant height	plant morphology trait	PPTO:0000009
+PPTO:0000320	alpha to gamma tocopherol ratio	biochemical trait	PPTO:0000004
+PPTO:0000321	alpha tocopherol content	biochemical trait	PPTO:0000004
+PPTO:0000322	anther exsertion	sterility or fertility trait	PPTO:0000012
+PPTO:0000323	arsenic accumulation	biochemical trait	PPTO:0000004
+PPTO:0000324	average diameter	plant morphology trait	PPTO:0000009
+PPTO:0000325	beta-carotene content	biochemical trait	PPTO:0000004
+PPTO:0000326	beta-carotene to alpha carotene ratio	biochemical trait	PPTO:0000004
+PPTO:0000327	beta-carotene to beta-cryptoxanthin ratio	biochemical trait	PPTO:0000004
+PPTO:0000328	beta-carotene to zeaxanthin ratio	biochemical trait	PPTO:0000004
+PPTO:0000329	beta-cryptoxanthin content	biochemical trait	PPTO:0000004
+PPTO:0000330	brassinosteroids inhibitor response	abiotic stress trait	PPTO:0000013
+PPTO:0000331	cadmium accumulation	biochemical trait	PPTO:0000004
+PPTO:0000332	carotenoid content	biochemical trait	PPTO:0000004
+PPTO:0000333	cob color	plant morphology trait	PPTO:0000009
+PPTO:0000334	cob diameter	plant morphology trait	PPTO:0000009
+PPTO:0000335	cob length	plant morphology trait	PPTO:0000009
+PPTO:0000336	cob weight	plant morphology trait	PPTO:0000009
+PPTO:0000337	corn earworm resistance	biotic stress trait	PPTO:0000007
+PPTO:0000338	crown root fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000339	crown root number	plant morphology trait	PPTO:0000009
+PPTO:0000340	days to germinate	plant growth and development trait	PPTO:0000006
+PPTO:0000341	days to pollen shedding	plant growth and development trait	PPTO:0000006
+PPTO:0000342	days to silk	plant growth and development trait	PPTO:0000006
+PPTO:0000343	days to tassel	plant growth and development trait	PPTO:0000006
+PPTO:0000344	drought susceptibility index	abiotic stress trait	PPTO:0000013
+PPTO:0000345	ear diameter	plant morphology trait	PPTO:0000009
+PPTO:0000346	ear infructescence position ratio	plant morphology trait	PPTO:0000009
+PPTO:0000347	ear rot resistance	biotic stress trait	PPTO:0000007
+PPTO:0000348	flowering period water use	biological process trait	PPTO:0000008
+PPTO:0000349	fusarium verticillioides seed rot resistance	biotic stress trait	PPTO:0000007
+PPTO:0000350	gamma tocopherol content	biochemical trait	PPTO:0000004
+PPTO:0000351	gibberellin inhibitor response	abiotic stress trait	PPTO:0000013
+PPTO:0000352	grain number	plant morphology trait	PPTO:0000009
+PPTO:0000353	grain oil content	plant quality trait	PPTO:0000005
+PPTO:0000354	grain volume	plant morphology trait	PPTO:0000009
+PPTO:0000355	grain yield trait	yield trait	PPTO:0000010
+PPTO:0000356	haploid male fertility	sterility or fertility trait	PPTO:0000012
+PPTO:0000357	husk length	plant morphology trait	PPTO:0000009
+PPTO:0000358	iron concentration	biochemical trait	PPTO:0000004
+PPTO:0000359	kernel resistance to borer attack	biotic stress trait	PPTO:0000007
+PPTO:0000360	kernel row number per ear	yield trait	PPTO:0000010
+PPTO:0000361	kernel weight per ear	plant morphology trait	PPTO:0000009
+PPTO:0000362	lateral root length	plant morphology trait	PPTO:0000009
+PPTO:0000363	lead content trait	biochemical trait	PPTO:0000004
+PPTO:0000364	leaf injury	abiotic stress trait	PPTO:0000013
+PPTO:0000365	leaf length	plant morphology trait	PPTO:0000009
+PPTO:0000366	leaf necrosis	plant morphology trait	PPTO:0000009
+PPTO:0000367	leaf number	plant morphology trait	PPTO:0000009
+PPTO:0000368	leaf orientation value	plant morphology trait	PPTO:0000009
+PPTO:0000369	leaf roll degree	plant morphology trait	PPTO:0000009
+PPTO:0000370	leaf width	plant morphology trait	PPTO:0000009
+PPTO:0000371	lesion severity	abiotic stress trait	PPTO:0000013
+PPTO:0000372	lutein content	biochemical trait	PPTO:0000004
+PPTO:0000373	lutein to zeaxanthin ratio	biochemical trait	PPTO:0000004
+PPTO:0000374	fusarium ear rot severity trait	biotic stress trait	PPTO:0000007
+PPTO:0000376	grain upper surface shape trait	plant morphology trait	PPTO:0000009
+PPTO:0000377	gray leaf spot severity trait	biotic stress trait	PPTO:0000007
+PPTO:0000378	head smut severity trait	biotic stress trait	PPTO:0000007
+PPTO:0000379	lethal necrosis severity trait	biotic stress trait	PPTO:0000007
+PPTO:0000380	rough dwarf disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0000381	seedling vigor trait	plant vigor trait	PPTO:0000011
+PPTO:0000382	streak virus incidence	biotic stress trait	PPTO:0000007
+PPTO:0000383	tar spot complex resistance	biotic stress trait	PPTO:0000007
+PPTO:0000384	maximum number of roots	plant morphology trait	PPTO:0000009
+PPTO:0000385	mercury accumulation	biochemical trait	PPTO:0000004
+PPTO:0000386	network area	plant morphology trait	PPTO:0000009
+PPTO:0000387	nodal root number	plant morphology trait	PPTO:0000009
+PPTO:0000388	node count	plant morphology trait	PPTO:0000009
+PPTO:0000389	northern corn leaf blight	biotic stress trait	PPTO:0000007
+PPTO:0000390	number of root forks	plant morphology trait	PPTO:0000009
+PPTO:0000391	number of seminal root	plant morphology trait	PPTO:0000009
+PPTO:0000392	photoperiod-sensitive flowering time trait	plant growth and development trait	PPTO:0000006
+PPTO:0000393	plant fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000394	pollen fertility	sterility or fertility trait	PPTO:0000012
+PPTO:0000395	pollen shedding	sterility or fertility trait	PPTO:0000012
+PPTO:0000396	primary root fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000397	provitamin a content	biochemical trait	PPTO:0000004
+PPTO:0000398	quantum efficiency of photosystem ii	biological process trait	PPTO:0000008
+PPTO:0000399	rank number per ear	yield trait	PPTO:0000010
+PPTO:0000400	relative anthesis silking interval	abiotic stress trait	PPTO:0000013
+PPTO:0000401	relative days to 50% root germination	plant vigor trait	PPTO:0000011
+PPTO:0000402	relative days to anthesis	abiotic stress trait	PPTO:0000013
+PPTO:0000403	relative days to silk	abiotic stress trait	PPTO:0000013
+PPTO:0000404	relative days to tassel	abiotic stress trait	PPTO:0000013
+PPTO:0000405	relative germination index	plant vigor trait	PPTO:0000011
+PPTO:0000406	relative grain number	abiotic stress trait	PPTO:0000013
+PPTO:0000407	relative grain number per row	abiotic stress trait	PPTO:0000013
+PPTO:0000408	relative grain weight	abiotic stress trait	PPTO:0000013
+PPTO:0000409	relative hundred grain weight	abiotic stress trait	PPTO:0000013
+PPTO:0000410	relative kernel row number per ear	abiotic stress trait	PPTO:0000013
+PPTO:0000411	relative leaf number	abiotic stress trait	PPTO:0000013
+PPTO:0000412	relative mesocotyl length	plant morphology trait	PPTO:0000009
+PPTO:0000413	relative plant height	abiotic stress trait	PPTO:0000013
+PPTO:0000414	relative root dry weight	abiotic stress trait	PPTO:0000013
+PPTO:0000415	relative root fresh weight	abiotic stress trait	PPTO:0000013
+PPTO:0000416	relative root length	plant morphology trait	PPTO:0000009
+PPTO:0000417	relative root number	plant morphology trait	PPTO:0000009
+PPTO:0000418	relative shoot dry weight	abiotic stress trait	PPTO:0000013
+PPTO:0000419	relative total dry weight	abiotic stress trait	PPTO:0000013
+PPTO:0000420	relative total fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000421	relative total length	plant morphology trait	PPTO:0000009
+PPTO:0000422	relative water content	plant morphology trait	PPTO:0000009
+PPTO:0000423	relative yield	yield trait	PPTO:0000010
+PPTO:0000424	relatvie ear length	abiotic stress trait	PPTO:0000013
+PPTO:0000425	relatvie shoot fresh weight	abiotic stress trait	PPTO:0000013
+PPTO:0000426	rind penetrometer resistance	plant vigor trait	PPTO:0000011
+PPTO:0000427	root bushiness	plant morphology trait	PPTO:0000009
+PPTO:0000428	root diameter	plant morphology trait	PPTO:0000009
+PPTO:0000429	root fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000430	root median	plant morphology trait	PPTO:0000009
+PPTO:0000431	root perimeter	plant morphology trait	PPTO:0000009
+PPTO:0000432	root weight	plant morphology trait	PPTO:0000009
+PPTO:0000433	seminal root fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000434	shank length	plant morphology trait	PPTO:0000009
+PPTO:0000435	shoot apical meristem volume	plant growth and development trait	PPTO:0000006
+PPTO:0000436	shoot fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000437	shoot water content	plant morphology trait	PPTO:0000009
+PPTO:0000438	silking photoperiod response	plant growth and development trait	PPTO:0000006
+PPTO:0000439	downy mildew resistance	biotic stress trait	PPTO:0000007
+PPTO:0000440	southern leaf blight resistance	biotic stress trait	PPTO:0000007
+PPTO:0000441	stalk bending strength	plant vigor trait	PPTO:0000011
+PPTO:0000442	standard root length	plant morphology trait	PPTO:0000009
+PPTO:0000443	stem damage	biotic stress trait	PPTO:0000007
+PPTO:0000444	stem diameter	plant morphology trait	PPTO:0000009
+PPTO:0000445	stomatal conductance	biological process trait	PPTO:0000008
+PPTO:0000446	style color	plant morphology trait	PPTO:0000009
+PPTO:0000447	surface area	plant morphology trait	PPTO:0000009
+PPTO:0000448	tassel branch number	plant morphology trait	PPTO:0000009
+PPTO:0000449	tassel branch zone length	plant morphology trait	PPTO:0000009
+PPTO:0000450	tassel length	plant morphology trait	PPTO:0000009
+PPTO:0000451	tassel spike length	plant morphology trait	PPTO:0000009
+PPTO:0000452	total biomass yield	plant morphology trait	PPTO:0000009
+PPTO:0000453	total plant biomass	plant morphology trait	PPTO:0000009
+PPTO:0000454	total root length	plant morphology trait	PPTO:0000009
+PPTO:0000455	total root number	plant morphology trait	PPTO:0000009
+PPTO:0000456	total soluble sugar content	biochemical trait	PPTO:0000004
+PPTO:0000457	total tocopherol content	biochemical trait	PPTO:0000004
+PPTO:0000458	transpiration efficiency	biological process trait	PPTO:0000008
+PPTO:0000459	transpiration rate	biological process trait	PPTO:0000008
+PPTO:0000460	tunnel length	biotic stress trait	PPTO:0000007
+PPTO:0000461	water content of shoots and leaves	plant morphology trait	PPTO:0000009
+PPTO:0000462	water use efficiency	biological process trait	PPTO:0000008
+PPTO:0000463	zeaxanthin content	biochemical trait	PPTO:0000004
+PPTO:0000464	zinc concentration	biochemical trait	PPTO:0000004
+PPTO:0000465	kernel depth	plant morphology trait	PPTO:0000009
+PPTO:0000466	relative fresh root weight	plant morphology trait	PPTO:0000009
+PPTO:0000467	total kernel volume	yield trait	PPTO:0000010
+PPTO:0000468	upper leaf angle	plant morphology trait	PPTO:0000009
+PPTO:0000469	anthracnose resistance	biotic stress trait	PPTO:0000007
+PPTO:0000470	anthracnose scores	biotic stress trait	PPTO:0000007
+PPTO:0000471	base-flag length	plant morphology trait	PPTO:0000009
+PPTO:0000472	crude protein content	plant quality trait	PPTO:0000005
+PPTO:0000473	dry stalk weight	plant morphology trait	PPTO:0000009
+PPTO:0000474	flag-rachis length	plant morphology trait	PPTO:0000009
+PPTO:0000475	leaf blotching	abiotic stress trait	PPTO:0000013
+PPTO:0000476	leaf firing	abiotic stress trait	PPTO:0000013
+PPTO:0000477	major lesion length	biotic stress trait	PPTO:0000007
+PPTO:0000478	relative major lesion length	biotic stress trait	PPTO:0000007
+PPTO:0000479	relative total lesion length	biotic stress trait	PPTO:0000007
+PPTO:0000480	stem circumference	plant morphology trait	PPTO:0000009
+PPTO:0000481	total lesion length	biotic stress trait	PPTO:0000007
+PPTO:0000482	whorls number	plant morphology trait	PPTO:0000009
+PPTO:0000483	anthocyanin content	biochemical trait	PPTO:0000004
+PPTO:0000484	panicle inflorescence exsertion	plant morphology trait	PPTO:0000009
+PPTO:0000485	inflorescence length	plant morphology trait	PPTO:0000009
+PPTO:0000486	grain number per plant	yield trait	PPTO:0000010
+PPTO:0000487	grain yield per panicle	yield trait	PPTO:0000010
+PPTO:0000488	rhizome internode number	plant morphology trait	PPTO:0000009
+PPTO:0000489	total fat content	biochemical trait	PPTO:0000004
+PPTO:0000490	inflorescence primary branch length	plant morphology trait	PPTO:0000009
+PPTO:0000491	inflorescence weight	plant morphology trait	PPTO:0000009
+PPTO:0000492	inflorescence width	plant morphology trait	PPTO:0000009
+PPTO:0000493	awn presence	plant morphology trait	PPTO:0000009
+PPTO:0000494	average projected seed area	plant quality trait	PPTO:0000005
+PPTO:0000495	begin of flowering	plant growth and development trait	PPTO:0000006
+PPTO:0000496	branch initiation height	plant morphology trait	PPTO:0000009
+PPTO:0000497	cadmium translocation coefficient	biochemical trait	PPTO:0000004
+PPTO:0000498	canopy biomass yield	plant morphology trait	PPTO:0000009
+PPTO:0000499	cellulose concentration	biochemical trait	PPTO:0000004
+PPTO:0000500	disease status before harvest	abiotic stress trait	PPTO:0000013
+PPTO:0000501	drought stress index	biotic stress trait	PPTO:0000007
+PPTO:0000502	end of flowering	plant growth and development trait	PPTO:0000006
+PPTO:0000503	erucic acid concentration	biochemical trait	PPTO:0000004
+PPTO:0000504	erucic acid content	biochemical trait	PPTO:0000004
+PPTO:0000505	final flowering stage	plant growth and development trait	PPTO:0000006
+PPTO:0000506	flowering period	plant growth and development trait	PPTO:0000006
+PPTO:0000507	glucosinolate concentration	biochemical trait	PPTO:0000004
+PPTO:0000508	glucosinolate content	biochemical trait	PPTO:0000004
+PPTO:0000509	hemicellulose concentration	biochemical trait	PPTO:0000004
+PPTO:0000510	hypocotyl elongation	plant growth and development trait	PPTO:0000006
+PPTO:0000511	initial flowering stage	plant growth and development trait	PPTO:0000006
+PPTO:0000512	lateral root density	plant morphology trait	PPTO:0000009
+PPTO:0000513	linolenic acid concentration	biochemical trait	PPTO:0000004
+PPTO:0000514	lodging before flowering	plant vigor trait	PPTO:0000011
+PPTO:0000515	lodging coefficient	plant morphology trait	PPTO:0000009
+PPTO:0000517	nertral detergent fiber concentration	biochemical trait	PPTO:0000004
+PPTO:0000518	resistance to leptosphaeria maculans	biotic stress trait	PPTO:0000007
+PPTO:0000519	root cadmium accumulation	biochemical trait	PPTO:0000004
+PPTO:0000520	shoot cadmium accumulation	biochemical trait	PPTO:0000004
+PPTO:0000522	stem breaking resistance	plant morphology trait	PPTO:0000009
+PPTO:0000523	stem dry weight	plant morphology trait	PPTO:0000009
+PPTO:0000524	taproot length	plant morphology trait	PPTO:0000009
+PPTO:0000525	the amount of acid detergent lignin	plant quality trait	PPTO:0000005
+PPTO:0000526	the hull content	plant quality trait	PPTO:0000005
+PPTO:0000527	the syringyl to guaiacyl monolignol ratio	biochemical trait	PPTO:0000004
+PPTO:0000528	winter hardiness	abiotic stress trait	PPTO:0000013
+PPTO:0000529	fat and essential oil content	biochemical trait	PPTO:0000004
+PPTO:0000530	harvest index	yield trait	PPTO:0000010
+PPTO:0000531	lateral root number	plant morphology trait	PPTO:0000009
+PPTO:0000532	moisture content trait	plant quality trait	PPTO:0000005
+PPTO:0000533	primary branch number	plant morphology trait	PPTO:0000009
+PPTO:0000534	shoot system sodium content	biochemical trait	PPTO:0000004
+PPTO:0000535	stem elongation	plant growth and development trait	PPTO:0000006
+PPTO:0000536	stem strength	plant morphology trait	PPTO:0000009
+PPTO:0000537	sulfur content	biochemical trait	PPTO:0000004
+PPTO:0000538	unfilled grain number	plant morphology trait	PPTO:0000009
+PPTO:0000539	lodging incidence	plant vigor trait	PPTO:0000011
+PPTO:0000540	blast disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0000541	panicle inflorescence type	plant morphology trait	PPTO:0000009
+PPTO:0000542	flag leaf angle	plant morphology trait	PPTO:0000009
+PPTO:0000543	relative biomass	yield trait	PPTO:0000010
+PPTO:0000544	milled rice yield	yield trait	PPTO:0000010
+PPTO:0000545	rice bacterial blight disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0000546	spikelet fertility	plant morphology trait	PPTO:0000009
+PPTO:0000547	leaf senescence trait	plant growth and development trait	PPTO:0000006
+PPTO:0000548	flavonoid content	biochemical trait	PPTO:0000004
+PPTO:0000549	carbohydrate content	biochemical trait	PPTO:0000004
+PPTO:0000550	cold tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0000551	breakdown viscosity	plant quality trait	PPTO:0000005
+PPTO:0000552	consistency viscosity	plant quality trait	PPTO:0000005
+PPTO:0000553	cool paste viscosity	plant quality trait	PPTO:0000005
+PPTO:0000554	grain thickness	plant quality trait	PPTO:0000005
+PPTO:0000555	hot paste viscosity	plant quality trait	PPTO:0000005
+PPTO:0000556	peak viscosity	plant quality trait	PPTO:0000005
+PPTO:0000557	setback viscosity	plant quality trait	PPTO:0000005
+PPTO:0000558	bakanae disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0000559	callus induction	plant vigor trait	PPTO:0000011
+PPTO:0000560	filled grain number	plant morphology trait	PPTO:0000009
+PPTO:0000561	seed set percent	plant morphology trait	PPTO:0000009
+PPTO:0000562	seed color	plant morphology trait	PPTO:0000009
+PPTO:0000563	relative growth rate	plant vigor trait	PPTO:0000011
+PPTO:0000564	secondary branch number	biological process trait	PPTO:0000008
+PPTO:0000565	specific leaf area	plant morphology trait	PPTO:0000009
+PPTO:0000566	tiller angle	plant morphology trait	PPTO:0000009
+PPTO:0000567	stem length	plant morphology trait	PPTO:0000009
+PPTO:0000568	seed fertility	plant morphology trait	PPTO:0000009
+PPTO:0000569	ferulic acid content	biochemical trait	PPTO:0000004
+PPTO:0000570	coleoptile length	plant morphology trait	PPTO:0000009
+PPTO:0000571	net photosynthetic rate	biological process trait	PPTO:0000008
+PPTO:0000572	relative panicle number	biological process trait	PPTO:0000008
+PPTO:0000573	inflorescence axis length	plant morphology trait	PPTO:0000009
+PPTO:0000574	leaf pubescence	plant morphology trait	PPTO:0000009
+PPTO:0000575	flower number	plant morphology trait	PPTO:0000009
+PPTO:0000576	floret number per inflorescence	plant morphology trait	PPTO:0000009
+PPTO:0000577	salt tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0000578	fructose content	biochemical trait	PPTO:0000004
+PPTO:0000579	molybdenum content	biochemical trait	PPTO:0000004
+PPTO:0000580	phenolic compound content	biochemical trait	PPTO:0000004
+PPTO:0000581	copper content trait	biochemical trait	PPTO:0000004
+PPTO:0000582	75th percentile of coleoptile length at day 8 of dark submergence	plant morphology trait	PPTO:0000009
+PPTO:0000583	above ground biomass	plant morphology trait	PPTO:0000009
+PPTO:0000584	alpha-tocopherol content	biochemical trait	PPTO:0000004
+PPTO:0000585	amylopectin percent	biochemical trait	PPTO:0000004
+PPTO:0000586	amylose percent	biochemical trait	PPTO:0000004
+PPTO:0000587	anaerobic response index	biotic stress trait	PPTO:0000007
+PPTO:0000588	breeding stage	biological process trait	PPTO:0000008
+PPTO:0000589	brown rice length/width ratio	plant morphology trait	PPTO:0000009
+PPTO:0000590	brown rice seed length	plant morphology trait	PPTO:0000009
+PPTO:0000591	brown rice seed width	plant morphology trait	PPTO:0000009
+PPTO:0000592	brown rice surface area	plant morphology trait	PPTO:0000009
+PPTO:0000593	brown rice volume	plant morphology trait	PPTO:0000009
+PPTO:0000594	chalk size	plant quality trait	PPTO:0000005
+PPTO:0000595	coleoptile length at day 4 of air	plant morphology trait	PPTO:0000009
+PPTO:0000596	coleoptile length at day 8 of dark submergence	plant morphology trait	PPTO:0000009
+PPTO:0000597	concentration of na+ in the shoots	abiotic stress trait	PPTO:0000013
+PPTO:0000598	culm habit	plant morphology trait	PPTO:0000009
+PPTO:0000599	development rate	plant vigor trait	PPTO:0000011
+PPTO:0000600	drought recovery	abiotic stress trait	PPTO:0000013
+PPTO:0000601	electrolyte leakage	biological process trait	PPTO:0000008
+PPTO:0000602	first callus appearance	plant vigor trait	PPTO:0000011
+PPTO:0000603	flag leaf length/width	plant morphology trait	PPTO:0000009
+PPTO:0000604	flooded coleoptile length	abiotic stress trait	PPTO:0000013
+PPTO:0000605	flooding tolerance index	abiotic stress trait	PPTO:0000013
+PPTO:0000606	flowering duration	plant growth and development trait	PPTO:0000006
+PPTO:0000607	flowering time ratio	plant growth and development trait	PPTO:0000006
+PPTO:0000608	free phenolic acid activity	biochemical trait	PPTO:0000004
+PPTO:0000609	germination energy	plant vigor trait	PPTO:0000011
+PPTO:0000610	germination index	plant vigor trait	PPTO:0000011
+PPTO:0000611	grain as concentrations	biochemical trait	PPTO:0000004
+PPTO:0000612	grain cd concentrations	biochemical trait	PPTO:0000004
+PPTO:0000613	grain pb concentrations	biochemical trait	PPTO:0000004
+PPTO:0000614	grain projected area	plant morphology trait	PPTO:0000009
+PPTO:0000615	grain transparency	plant morphology trait	PPTO:0000009
+PPTO:0000616	green leaf number	plant morphology trait	PPTO:0000009
+PPTO:0000617	green leaves area	plant morphology trait	PPTO:0000009
+PPTO:0000618	ic threshold	biological process trait	PPTO:0000008
+PPTO:0000619	leaf bronzing score	abiotic stress trait	PPTO:0000013
+PPTO:0000620	length of primary branch	plant morphology trait	PPTO:0000009
+PPTO:0000621	length of secondary branch	plant morphology trait	PPTO:0000009
+PPTO:0000622	light conversion effciency	plant vigor trait	PPTO:0000011
+PPTO:0000623	m. graminicola resistance	biotic stress trait	PPTO:0000007
+PPTO:0000624	meristem growth rate	plant vigor trait	PPTO:0000011
+PPTO:0000625	n', n''-diferuloyl spermidine	biochemical trait	PPTO:0000004
+PPTO:0000626	n', n''-di-p-coumaroyl spermidine	biochemical trait	PPTO:0000004
+PPTO:0000627	n', n''-disinapoyl spermidine	biochemical trait	PPTO:0000004
+PPTO:0000628	n', n''-p-coumaroyl, feruloyl spermidine	biochemical trait	PPTO:0000004
+PPTO:0000629	n-caffeoyl spermidine	biochemical trait	PPTO:0000004
+PPTO:0000630	non-grain dry weight	yield trait	PPTO:0000010
+PPTO:0000631	n-p-coumaroyl spermidine	biochemical trait	PPTO:0000004
+PPTO:0000632	number of spikelets per secondary branch	plant morphology trait	PPTO:0000009
+PPTO:0000633	number of tillers bearing a panicle	plant morphology trait	PPTO:0000009
+PPTO:0000634	p_coumaric acid content	biochemical trait	PPTO:0000004
+PPTO:0000635	panicle fertility	plant morphology trait	PPTO:0000009
+PPTO:0000636	panicle width	plant morphology trait	PPTO:0000009
+PPTO:0000637	pasting temperature	plant quality trait	PPTO:0000005
+PPTO:0000638	percentage of damage of the seedlings	abiotic stress trait	PPTO:0000013
+PPTO:0000639	percentage of head rice recovery	plant quality trait	PPTO:0000005
+PPTO:0000640	plant compactness	plant morphology trait	PPTO:0000009
+PPTO:0000641	plastochron or phyllochron	plant growth and development trait	PPTO:0000006
+PPTO:0000642	primary internode length	plant morphology trait	PPTO:0000009
+PPTO:0000643	ratio between coleoptile length at days 8 and 4	plant morphology trait	PPTO:0000009
+PPTO:0000644	ratio of deep rooting	plant morphology trait	PPTO:0000009
+PPTO:0000645	ratio of electrolyte leakage	biological process trait	PPTO:0000008
+PPTO:0000646	relative crop growth rate	biochemical trait	PPTO:0000004
+PPTO:0000647	relative deduction of shoot k+ content	biochemical trait	PPTO:0000004
+PPTO:0000648	relative deduction of shoot na+ content	biochemical trait	PPTO:0000004
+PPTO:0000649	relative dry weight	abiotic stress trait	PPTO:0000013
+PPTO:0000650	relative leaf width	plant morphology trait	PPTO:0000009
+PPTO:0000651	relative lignin content	abiotic stress trait	PPTO:0000013
+PPTO:0000652	relative panicle weight	biological process trait	PPTO:0000008
+PPTO:0000653	relative root/shoot ratio	plant morphology trait	PPTO:0000009
+PPTO:0000654	relative single panicle weight	abiotic stress trait	PPTO:0000013
+PPTO:0000655	relative thousand kernel weight	abiotic stress trait	PPTO:0000013
+PPTO:0000656	relative tiller number	abiotic stress trait	PPTO:0000013
+PPTO:0000657	relative total panicle weight	abiotic stress trait	PPTO:0000013
+PPTO:0000658	ripening ratio	plant growth and development trait	PPTO:0000006
+PPTO:0000659	root tip number	plant morphology trait	PPTO:0000009
+PPTO:0000660	score of alkalinity tolerance	biotic stress trait	PPTO:0000007
+PPTO:0000661	secondary branch length	plant morphology trait	PPTO:0000009
+PPTO:0000662	secondary internode length	plant morphology trait	PPTO:0000009
+PPTO:0000663	seed density	plant growth and development trait	PPTO:0000006
+PPTO:0000664	seed surface area	plant morphology trait	PPTO:0000009
+PPTO:0000665	seed volume	plant morphology trait	PPTO:0000009
+PPTO:0000666	sinapic acid content	biochemical trait	PPTO:0000004
+PPTO:0000667	spikelet per panicle	plant morphology trait	PPTO:0000009
+PPTO:0000668	stem starch content	biochemical trait	PPTO:0000004
+PPTO:0000669	stem sucrose content	biochemical trait	PPTO:0000004
+PPTO:0000670	survival rate	biotic stress trait	PPTO:0000007
+PPTO:0000671	albumin content	biochemical trait	PPTO:0000004
+PPTO:0000672	the contents of globulin	biochemical trait	PPTO:0000004
+PPTO:0000673	the contents of glutelin	biochemical trait	PPTO:0000004
+PPTO:0000674	the contents of prolamin	biochemical trait	PPTO:0000004
+PPTO:0000675	vigor index	plant vigor trait	PPTO:0000011
+PPTO:0000676	peak time	plant quality trait	PPTO:0000005
+PPTO:0000677	spikelet sterility	sterility or fertility trait	PPTO:0000012
+PPTO:0000678	amylose 1 (true amylose chains) percent	biochemical trait	PPTO:0000004
+PPTO:0000679	amylose 2 (long chain amylopectin) percent	biochemical trait	PPTO:0000004
+PPTO:0000680	medium-chain amylopectin percent	biochemical trait	PPTO:0000004
+PPTO:0000681	short-chain amylopectin percent	biochemical trait	PPTO:0000004
+PPTO:0000682	leaf number above ear	plant morphology trait	PPTO:0000009
+PPTO:0000683	leaf number below ear	plant morphology trait	PPTO:0000009
+PPTO:0000684	emergence vigor	plant vigor trait	PPTO:0000011
+PPTO:0000685	tassel floppiness	plant morphology trait	PPTO:0000009
+PPTO:0000686	haploid fertility	sterility or fertility trait	PPTO:0000012
+PPTO:0000687	goss's wilt resistance	biotic stress trait	PPTO:0000007
+PPTO:0000688	chlorotic mottle virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0000689	grain color trait	plant morphology trait	PPTO:0000009
+PPTO:0000690	floury to vitreous ratio	plant quality trait	PPTO:0000005
+PPTO:0000691	popping expansion volume	plant quality trait	PPTO:0000005
+PPTO:0000692	flotation index	plant quality trait	PPTO:0000005
+PPTO:0000693	pericarp retention	plant quality trait	PPTO:0000005
+PPTO:0000694	beta-carotene to beta-cryptoxanthin and zeaxanthin ratio	biochemical trait	PPTO:0000004
+PPTO:0000695	beta-xanthophyll to alpha-xanthophyll ratio	biochemical trait	PPTO:0000004
+PPTO:0000696	xanthophyll content	biochemical trait	PPTO:0000004
+PPTO:0000697	violaxanthin content	biochemical trait	PPTO:0000004
+PPTO:0000700	root weight to shoot weight ratio	plant morphology trait	PPTO:0000009
+PPTO:0000701	exocarp thickness	plant morphology trait	PPTO:0000009
+PPTO:0000703	large vascular bundle number to leaf area ratio	plant morphology trait	PPTO:0000009
+PPTO:0000704	kernel density	plant quality trait	PPTO:0000005
+PPTO:0000705	fruit length	plant morphology trait	PPTO:0000009
+PPTO:0000706	tip barren length	plant morphology trait	PPTO:0000009
+PPTO:0000707	the compute setting rate	plant morphology trait	PPTO:0000009
+PPTO:0000708	kernel moisture content	plant quality trait	PPTO:0000005
+PPTO:0000709	husk tightness	plant morphology trait	PPTO:0000009
+PPTO:0000710	relative vitality index	plant vigor trait	PPTO:0000011
+PPTO:0000711	relative radicle volume	plant vigor trait	PPTO:0000011
+PPTO:0000712	relative radicle surface area	plant vigor trait	PPTO:0000011
+PPTO:0000713	relative germ length	plant vigor trait	PPTO:0000011
+PPTO:0000714	relative simple vitality index	plant vigor trait	PPTO:0000011
+PPTO:0000715	relative radicle length	plant vigor trait	PPTO:0000011
+PPTO:0000716	ear infructescence number	yield trait	PPTO:0000010
+PPTO:0000717	striga damage rate	biotic stress trait	PPTO:0000007
+PPTO:0000718	striga count	biotic stress trait	PPTO:0000007
+PPTO:0000719	ear aspect	plant morphology trait	PPTO:0000009
+PPTO:0000720	resistance to stalk tunneling by mediterranean corn borer	biotic stress trait	PPTO:0000007
+PPTO:0000721	kernel resistance to mediterranean corn borer attack	biotic stress trait	PPTO:0000007
+PPTO:0000722	seminal root length	plant morphology trait	PPTO:0000009
+PPTO:0000723	length of the starch granule.	plant quality trait	PPTO:0000005
+PPTO:0000725	flour fiber content	plant quality trait	PPTO:0000005
+PPTO:0000726	flour fat content	plant quality trait	PPTO:0000005
+PPTO:0000728	flour protein content	plant quality trait	PPTO:0000005
+PPTO:0000729	setback from trough viscosity	plant quality trait	PPTO:0000005
+PPTO:0000731	flour particle size	plant quality trait	PPTO:0000005
+PPTO:0000732	starch concentration	plant quality trait	PPTO:0000005
+PPTO:0000733	throuth viscosity	plant quality trait	PPTO:0000005
+PPTO:0000736	speed of accumulated germination	plant vigor trait	PPTO:0000011
+PPTO:0000737	coefficient of germination rate.	plant growth and development trait	PPTO:0000006
+PPTO:0000738	days to the second leaf	plant growth and development trait	PPTO:0000006
+PPTO:0000739	node number below ear	plant morphology trait	PPTO:0000009
+PPTO:0000740	stover organic matter digestibility	plant quality trait	PPTO:0000005
+PPTO:0000741	metabolizable energy	plant quality trait	PPTO:0000005
+PPTO:0000742	area under number of striga counts progress curve	biotic stress trait	PPTO:0000007
+PPTO:0000743	herbicide sensitivity	abiotic stress trait	PPTO:0000013
+PPTO:0000744	tannins content	biochemical trait	PPTO:0000004
+PPTO:0000745	total phenols	biochemical trait	PPTO:0000004
+PPTO:0000746	total antioxidant capacity	biochemical trait	PPTO:0000004
+PPTO:0000747	panicle inflorescence shape	plant morphology trait	PPTO:0000009
+PPTO:0000748	condensed tannins content	biochemical trait	PPTO:0000004
+PPTO:0000749	sorghum grain mold	biotic stress trait	PPTO:0000007
+PPTO:0000750	testa presence	plant morphology trait	PPTO:0000009
+PPTO:0000751	mesocarp thickness	plant morphology trait	PPTO:0000009
+PPTO:0000752	panicle erectness	plant morphology trait	PPTO:0000009
+PPTO:0000753	upper plot-based plant width	plant morphology trait	PPTO:0000009
+PPTO:0000754	middle plot-based plant width	plant morphology trait	PPTO:0000009
+PPTO:0000755	lower plot-based plant width	plant morphology trait	PPTO:0000009
+PPTO:0000756	panicle inflorescence compactness	plant morphology trait	PPTO:0000009
+PPTO:0000757	glume cover	plant morphology trait	PPTO:0000009
+PPTO:0000758	male sterility	sterility or fertility trait	PPTO:0000012
+PPTO:0000759	root system width	plant morphology trait	PPTO:0000009
+PPTO:0000760	root median width	plant morphology trait	PPTO:0000009
+PPTO:0000761	root adjusted depth	plant morphology trait	PPTO:0000009
+PPTO:0000762	root width profile angle	plant morphology trait	PPTO:0000009
+PPTO:0000763	convex hull area	plant morphology trait	PPTO:0000009
+PPTO:0000764	valine percentage	biochemical trait	PPTO:0000004
+PPTO:0000765	ratio of valine to pyruvate family	biochemical trait	PPTO:0000004
+PPTO:0000766	ratio of valine to bcaa family	biochemical trait	PPTO:0000004
+PPTO:0000767	valine content	biochemical trait	PPTO:0000004
+PPTO:0000768	tyrosinase percentage	biochemical trait	PPTO:0000004
+PPTO:0000769	ratio of tyrosinase to shikimate family	biochemical trait	PPTO:0000004
+PPTO:0000770	tyrosinase content	biochemical trait	PPTO:0000004
+PPTO:0000771	amino acid content	biochemical trait	PPTO:0000004
+PPTO:0000772	threonine percentage	biochemical trait	PPTO:0000004
+PPTO:0000773	ratio of threonine to aspartate family	biochemical trait	PPTO:0000004
+PPTO:0000774	threonine content	biochemical trait	PPTO:0000004
+PPTO:0000775	shikimate family content	biochemical trait	PPTO:0000004
+PPTO:0000776	serine percentage	biochemical trait	PPTO:0000004
+PPTO:0000777	serine family content	biochemical trait	PPTO:0000004
+PPTO:0000778	serine content	biochemical trait	PPTO:0000004
+PPTO:0000779	pyruvate family content	biochemical trait	PPTO:0000004
+PPTO:0000780	proline percentage	biochemical trait	PPTO:0000004
+PPTO:0000781	ratio of proline to glutamate family	biochemical trait	PPTO:0000004
+PPTO:0000782	ratio of phenylalanine to shikimate family	biochemical trait	PPTO:0000004
+PPTO:0000783	phenylalanine content	biochemical trait	PPTO:0000004
+PPTO:0000784	methionine percentage	biochemical trait	PPTO:0000004
+PPTO:0000785	ratio of methionine to aspartate family	biochemical trait	PPTO:0000004
+PPTO:0000786	methionine content	biochemical trait	PPTO:0000004
+PPTO:0000787	lysine percentage	biochemical trait	PPTO:0000004
+PPTO:0000788	leucine percentage	biochemical trait	PPTO:0000004
+PPTO:0000789	isoleucine percentage	biochemical trait	PPTO:0000004
+PPTO:0000790	histidinet percentage	biochemical trait	PPTO:0000004
+PPTO:0000791	glycine percentage	biochemical trait	PPTO:0000004
+PPTO:0000792	glutamate percentage	biochemical trait	PPTO:0000004
+PPTO:0000793	cysteine percentage	biochemical trait	PPTO:0000004
+PPTO:0000794	aspartate percentage	biochemical trait	PPTO:0000004
+PPTO:0000795	arginine percentage	biochemical trait	PPTO:0000004
+PPTO:0000796	alanine percentage	biochemical trait	PPTO:0000004
+PPTO:0000797	lysine content	biochemical trait	PPTO:0000004
+PPTO:0000798	leucine content	biochemical trait	PPTO:0000004
+PPTO:0000799	isoleucine content	biochemical trait	PPTO:0000004
+PPTO:0000800	histidine content	biochemical trait	PPTO:0000004
+PPTO:0000801	glycine content	biochemical trait	PPTO:0000004
+PPTO:0000802	cysteine content	biochemical trait	PPTO:0000004
+PPTO:0000803	aspartate content	biochemical trait	PPTO:0000004
+PPTO:0000804	arginine content	biochemical trait	PPTO:0000004
+PPTO:0000805	alanine content	biochemical trait	PPTO:0000004
+PPTO:0000806	glutamate family content	biochemical trait	PPTO:0000004
+PPTO:0000807	bcaa family content	biochemical trait	PPTO:0000004
+PPTO:0000808	aspartate family content	biochemical trait	PPTO:0000004
+PPTO:0000809	ratio of lysine to aspartate family	biochemical trait	PPTO:0000004
+PPTO:0000810	ratio of leucine to pyruvate family	biochemical trait	PPTO:0000004
+PPTO:0000811	ratio of leucine to bcaa family	biochemical trait	PPTO:0000004
+PPTO:0000812	ratio of isoleucine to bcaa family	biochemical trait	PPTO:0000004
+PPTO:0000813	ratio of isoleucine to aspartate family	biochemical trait	PPTO:0000004
+PPTO:0000814	ratio of glycine to serine family	biochemical trait	PPTO:0000004
+PPTO:0000815	ratio of glutamate to glutamate family	biochemical trait	PPTO:0000004
+PPTO:0000816	ratio of arginine to glutamate family	biochemical trait	PPTO:0000004
+PPTO:0000817	ratio of alanine to pyruvate family	biochemical trait	PPTO:0000004
+PPTO:0000818	hybrid incompatibility	sterility or fertility trait	PPTO:0000012
+PPTO:0000819	filled grain percentage	plant morphology trait	PPTO:0000009
+PPTO:0000820	germinability at low temperature	plant quality trait	PPTO:0000005
+PPTO:0000821	root system sodium content	biochemical trait	PPTO:0000004
+PPTO:0000822	brown planthopper resistance	biotic stress trait	PPTO:0000007
+PPTO:0000823	chalky endosperm	plant morphology trait	PPTO:0000009
+PPTO:0000824	grain size	plant morphology trait	PPTO:0000009
+PPTO:0000825	rice tungro virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0000826	root thickness	plant morphology trait	PPTO:0000009
+PPTO:0000827	regeneration ablility	plant vigor trait	PPTO:0000011
+PPTO:0000828	nitrogen use efficiency	abiotic stress trait	PPTO:0000013
+PPTO:0000829	interspecific hybrid incompatibility	sterility or fertility trait	PPTO:0000012
+PPTO:0000830	bispyribac sodium tolerance	biotic stress trait	PPTO:0000007
+PPTO:0000831	ultraviolet-b tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0000832	interspecific hybrid weakness	sterility or fertility trait	PPTO:0000012
+PPTO:0000833	stripe virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0000834	benzoyl tryptamine content	biological process trait	PPTO:0000008
+PPTO:0000835	cinnamoyl tryptamine content	biological process trait	PPTO:0000008
+PPTO:0000836	tolerance to nutrition	abiotic stress trait	PPTO:0000013
+PPTO:0000837	tolerance to nitrogen deficiency	abiotic stress trait	PPTO:0000013
+PPTO:0000838	aluminum tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0000839	trigonelline content	biological process trait	PPTO:0000008
+PPTO:0000840	lodging resistance	plant vigor trait	PPTO:0000011
+PPTO:0000841	boron-toxicity tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0000842	hybrid compatibility	sterility or fertility trait	PPTO:0000012
+PPTO:0000843	mesocotyl elongation	plant growth and development trait	PPTO:0000006
+PPTO:0000844	cytoplasmic male sterility	sterility or fertility trait	PPTO:0000012
+PPTO:0000845	photoperiod-sensitive male sterility	sterility or fertility trait	PPTO:0000012
+PPTO:0000846	thermo-sensitive genic male sterility	sterility or fertility trait	PPTO:0000012
+PPTO:0000847	generation of stale flavor	plant quality trait	PPTO:0000005
+PPTO:0000848	tricin-lignan-glycosides content	biochemical trait	PPTO:0000004
+PPTO:0000849	callus browning	plant morphology trait	PPTO:0000009
+PPTO:0000850	grain discoloration	plant morphology trait	PPTO:0000009
+PPTO:0000851	o-methylapigenin c-pentoside content	biochemical trait	PPTO:0000004
+PPTO:0000852	l-asparagine content	biochemical trait	PPTO:0000004
+PPTO:0000853	potassium use efficiency	biological process trait	PPTO:0000008
+PPTO:0000854	anthocyanin pigmentation	biochemical trait	PPTO:0000004
+PPTO:0000855	apigenin 5-o-glucoside content	biochemical trait	PPTO:0000004
+PPTO:0000856	feruloylserotonin content	biochemical trait	PPTO:0000004
+PPTO:0000857	fragrance	plant quality trait	PPTO:0000005
+PPTO:0000858	anaerobic germination tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0000859	n-feruloylputrescine content	biochemical trait	PPTO:0000004
+PPTO:0000860	rice yellow mottle virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0000861	rice endosperm type trait	plant morphology trait	PPTO:0000009
+PPTO:0000862	nitrogen sensitivity	abiotic stress trait	PPTO:0000013
+PPTO:0000863	panicle weight	plant morphology trait	PPTO:0000009
+PPTO:0000864	black streak dwarf virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0000865	root number	plant morphology trait	PPTO:0000009
+PPTO:0000866	awn color	plant morphology trait	PPTO:0000009
+PPTO:0000867	canopy temperature	abiotic stress trait	PPTO:0000013
+PPTO:0000868	rice bacterial leaf streak disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0000869	head rice yield	yield trait	PPTO:0000010
+PPTO:0000870	sheath blight disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0000871	vegetative vigor	plant vigor trait	PPTO:0000011
+PPTO:0000872	forage yield	yield trait	PPTO:0000010
+PPTO:0000873	panicle threshability	plant quality trait	PPTO:0000005
+PPTO:0000874	vascular bundle number	plant morphology trait	PPTO:0000009
+PPTO:0000875	phosphorus uptake	biochemical trait	PPTO:0000004
+PPTO:0000876	stem thickness	plant morphology trait	PPTO:0000009
+PPTO:0000877	flag leaf area	plant morphology trait	PPTO:0000009
+PPTO:0000878	leaf dry weight	plant morphology trait	PPTO:0000009
+PPTO:0000879	root hair density	plant morphology trait	PPTO:0000009
+PPTO:0000880	root hair length	plant morphology trait	PPTO:0000009
+PPTO:0000881	grain nitrogen content	biochemical trait	PPTO:0000004
+PPTO:0000882	grain carbon content	biochemical trait	PPTO:0000004
+PPTO:0000883	arsenic content trait	biochemical trait	PPTO:0000004
+PPTO:0000884	palmitic acid content	biochemical trait	PPTO:0000004
+PPTO:0000885	awn type	plant morphology trait	PPTO:0000009
+PPTO:0000886	hull cover	plant morphology trait	PPTO:0000009
+PPTO:0000887	kernel rate	plant morphology trait	PPTO:0000009
+PPTO:0000888	lodging	plant vigor trait	PPTO:0000011
+PPTO:0000889	grain cobalt concentration	biochemical trait	PPTO:0000004
+PPTO:0000890	grain cuprum concentration	biochemical trait	PPTO:0000004
+PPTO:0000891	grain kalium concentrations	biochemical trait	PPTO:0000004
+PPTO:0000892	grain molybdenum concentration	biochemical trait	PPTO:0000004
+PPTO:0000893	grain rubidium concentration	biochemical trait	PPTO:0000004
+PPTO:0000894	grain strontium concentration	biochemical trait	PPTO:0000004
+PPTO:0000895	grain nickel concentration	biochemical trait	PPTO:0000004
+PPTO:0000896	grain potassium concentration	biochemical trait	PPTO:0000004
+PPTO:0000897	early sowing	plant vigor trait	PPTO:0000011
+PPTO:0000898	late sowing	plant vigor trait	PPTO:0000011
+PPTO:0000899	resistant starch	plant quality trait	PPTO:0000005
+PPTO:0000900	rapidly digestible starch	plant quality trait	PPTO:0000005
+PPTO:0000901	slowly digestible starch	plant quality trait	PPTO:0000005
+PPTO:0000902	taste score of cooked grain	plant quality trait	PPTO:0000005
+PPTO:0000903	root growth ability	plant vigor trait	PPTO:0000011
+PPTO:0000904	dry biomass at maturity	plant morphology trait	PPTO:0000009
+PPTO:0000905	stomatal density on the adaxial surface	biological process trait	PPTO:0000008
+PPTO:0000906	guard cell length on the adaxial surface	biological process trait	PPTO:0000008
+PPTO:0000907	guard cell width on the adaxial surface	biological process trait	PPTO:0000008
+PPTO:0000908	stomatal size on the adaxial surface	biological process trait	PPTO:0000008
+PPTO:0000909	stomatal density on the abaxial surface	biological process trait	PPTO:0000008
+PPTO:0000910	guard cell length on the abaxial surface	biological process trait	PPTO:0000008
+PPTO:0000911	guard cell width on the abaxial surface	biological process trait	PPTO:0000008
+PPTO:0000912	stomatal size on the abaxial surface	biological process trait	PPTO:0000008
+PPTO:0000913	blighted grains per plant	plant quality trait	PPTO:0000005
+PPTO:0000914	blighted grains per panicle	plant quality trait	PPTO:0000005
+PPTO:0000915	blighted grain weight per plant	plant quality trait	PPTO:0000005
+PPTO:0000916	filled grain weight per plant	plant morphology trait	PPTO:0000009
+PPTO:0000917	productive panicle number	yield trait	PPTO:0000010
+PPTO:0000918	water content of grain	biochemical trait	PPTO:0000004
+PPTO:0000919	whiteness degree of complete grain	plant quality trait	PPTO:0000005
+PPTO:0000920	whiteness degree of dead grain	plant quality trait	PPTO:0000005
+PPTO:0000921	plumule length after recovery	plant vigor trait	PPTO:0000011
+PPTO:0000922	plumule length recovery rate	plant vigor trait	PPTO:0000011
+PPTO:0000923	carbon/nitrogen ratio	biochemical trait	PPTO:0000004
+PPTO:0000924	productive tiller number	plant morphology trait	PPTO:0000009
+PPTO:0000925	seedling numbers	abiotic stress trait	PPTO:0000013
+PPTO:0000926	squalene content	biochemical trait	PPTO:0000004
+PPTO:0000927	grain manganese concentrations	biochemical trait	PPTO:0000004
+PPTO:0000928	grain chromium concentration	biochemical trait	PPTO:0000004
+PPTO:0000929	grain selenium concentrations	biochemical trait	PPTO:0000004
+PPTO:0000930	root relative elongation	abiotic stress trait	PPTO:0000013
+PPTO:0000931	growth in plant height	abiotic stress trait	PPTO:0000013
+PPTO:0000932	lesion number	biotic stress trait	PPTO:0000007
+PPTO:0000933	phytic acid content	biochemical trait	PPTO:0000004
+PPTO:0000934	projected shoot area	plant morphology trait	PPTO:0000009
+PPTO:0000935	uppermost internode	yield trait	PPTO:0000010
+PPTO:0000936	minimum fluorescence	plant morphology trait	PPTO:0000009
+PPTO:0000937	maximum fluorescence	plant morphology trait	PPTO:0000009
+PPTO:0000938	leaf dry matter percentage	plant morphology trait	PPTO:0000009
+PPTO:0000939	leaf fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000940	leaf turgid weight	plant morphology trait	PPTO:0000009
+PPTO:0000941	relative leaf weight	plant morphology trait	PPTO:0000009
+PPTO:0000942	days to first emergence	plant growth and development trait	PPTO:0000006
+PPTO:0000943	days to full emergence	plant growth and development trait	PPTO:0000006
+PPTO:0000944	bending moment	plant vigor trait	PPTO:0000011
+PPTO:0000945	iron uptake	biochemical trait	PPTO:0000004
+PPTO:0000946	nitrogen uptake	biochemical trait	PPTO:0000004
+PPTO:0000947	arsenic content ratio	biochemical trait	PPTO:0000004
+PPTO:0000948	zinc uptake	abiotic stress trait	PPTO:0000013
+PPTO:0000949	seedling dry weight	plant morphology trait	PPTO:0000009
+PPTO:0000950	seedling fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000951	number of upper secondary rachis branches	plant morphology trait	PPTO:0000009
+PPTO:0000952	number of middle secondary rachis branches	plant morphology trait	PPTO:0000009
+PPTO:0000953	number of bottom secondary rachis branches	plant morphology trait	PPTO:0000009
+PPTO:0000954	number of chaffs per panicle	plant morphology trait	PPTO:0000009
+PPTO:0000955	panicle shattering degree	plant quality trait	PPTO:0000005
+PPTO:0000956	turgid weight	abiotic stress trait	PPTO:0000013
+PPTO:0000957	coleoptile diameter	plant morphology trait	PPTO:0000009
+PPTO:0000958	panicle axis	plant morphology trait	PPTO:0000009
+PPTO:0000959	myristic acid content	biochemical trait	PPTO:0000004
+PPTO:0000960	arachidic acid content	biochemical trait	PPTO:0000004
+PPTO:0000961	very long chain fatty acid content	biochemical trait	PPTO:0000004
+PPTO:0000962	neck panicle diameter	plant morphology trait	PPTO:0000009
+PPTO:0000963	productive tiller ratio	yield trait	PPTO:0000010
+PPTO:0000964	heading interval	plant growth and development trait	PPTO:0000006
+PPTO:0000965	breaking strength of the basal internode	plant morphology trait	PPTO:0000009
+PPTO:0000966	length of the 2nd internode from plant base	plant morphology trait	PPTO:0000009
+PPTO:0000967	lodging index	plant vigor trait	PPTO:0000011
+PPTO:0000968	phosphorus concentration	biochemical trait	PPTO:0000004
+PPTO:0000969	shoot elongation rate	plant growth and development trait	PPTO:0000006
+PPTO:0000970	relative phosphorus concentration	biochemical trait	PPTO:0000004
+PPTO:0000971	meloidogyne javanica resistance	biotic stress trait	PPTO:0000007
+PPTO:0000972	100-grain fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000973	100-seed dry weight	plant morphology trait	PPTO:0000009
+PPTO:0000974	legume fruit fresh weight	plant morphology trait	PPTO:0000009
+PPTO:0000975	grain phosphorus content	biochemical trait	PPTO:0000004
+PPTO:0000976	copper concentration	biochemical trait	PPTO:0000004
+PPTO:0000977	photochemical quenching	biochemical trait	PPTO:0000004
+PPTO:0000978	delta tocopherol content	biochemical trait	PPTO:0000004
+PPTO:0000979	seed water‑soluble protein content	biochemical trait	PPTO:0000004
+PPTO:0000980	early plant height	plant morphology trait	PPTO:0000009
+PPTO:0000981	phosphatidyl inositol (34:3) content	biochemical trait	PPTO:0000004
+PPTO:0000982	intercellular carbon dioxide concentration	biochemical trait	PPTO:0000004
+PPTO:0000983	canopy wilting	abiotic stress trait	PPTO:0000013
+PPTO:0000984	radicle weight ratio	abiotic stress trait	PPTO:0000013
+PPTO:0000985	radicle length ratio	abiotic stress trait	PPTO:0000013
+PPTO:0000986	iron deficiency chlorosis tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0000987	days to full pod	plant growth and development trait	PPTO:0000006
+PPTO:0000988	days to beginning seed	plant growth and development trait	PPTO:0000006
+PPTO:0000989	days to beginning pod	plant growth and development trait	PPTO:0000006
+PPTO:0000990	days to full seed	plant growth and development trait	PPTO:0000006
+PPTO:0000991	days to full bloom	plant growth and development trait	PPTO:0000006
+PPTO:0000992	nodule dry weight to shoot dry weight ratio	plant morphology trait	PPTO:0000009
+PPTO:0000993	normal seedling rate	plant vigor trait	PPTO:0000011
+PPTO:0000994	electric conductivity	plant growth and development trait	PPTO:0000006
+PPTO:0000995	root colonization percentage	plant morphology trait	PPTO:0000009
+PPTO:0000996	pod dehiscence	plant morphology trait	PPTO:0000009
+PPTO:0000997	leaf chloride content	biochemical trait	PPTO:0000004
+PPTO:0000998	seed calcium concentration	biochemical trait	PPTO:0000004
+PPTO:0000999	seed aluminium concentration	biochemical trait	PPTO:0000004
+PPTO:0001000	seed magnesium concentration	biochemical trait	PPTO:0000004
+PPTO:0001001	seed cerium concentration	biochemical trait	PPTO:0000004
+PPTO:0001002	seed sulfur concentration	biochemical trait	PPTO:0000004
+PPTO:0001003	root overall complexity score	plant morphology trait	PPTO:0000009
+PPTO:0001004	taproot	plant morphology trait	PPTO:0000009
+PPTO:0001005	upper primary lateral root number	plant morphology trait	PPTO:0000009
+PPTO:0001006	upper secondary lateral root density	plant morphology trait	PPTO:0000009
+PPTO:0001007	upper primary lateral root average angle	plant morphology trait	PPTO:0000009
+PPTO:0001008	upper primary lateral angle range	plant morphology trait	PPTO:0000009
+PPTO:0001009	lower primary lateral root number	plant morphology trait	PPTO:0000009
+PPTO:0001010	lower primary lateral root average angle	plant morphology trait	PPTO:0000009
+PPTO:0001011	lower primary lateral root angle range	plant morphology trait	PPTO:0000009
+PPTO:0001012	primary lateral root number	plant morphology trait	PPTO:0000009
+PPTO:0001013	lower secondary lateral root density	plant morphology trait	PPTO:0000009
+PPTO:0001014	cysteine and methionine content	biochemical trait	PPTO:0000004
+PPTO:0001015	resistance to phytophthora sojae	biotic stress trait	PPTO:0000007
+PPTO:0001016	shoot nitrogen content	biochemical trait	PPTO:0000004
+PPTO:0001017	days to pod beginning	plant growth and development trait	PPTO:0000006
+PPTO:0001018	days to seed formation	plant growth and development trait	PPTO:0000006
+PPTO:0001019	average root diameter	plant morphology trait	PPTO:0000009
+PPTO:0001020	root branching number	plant morphology trait	PPTO:0000009
+PPTO:0001021	root dry weight to shoot dry weight ratio	yield trait	PPTO:0000010
+PPTO:0001022	damage of leaf chlorosis	plant morphology trait	PPTO:0000009
+PPTO:0001023	damage of leaf shape	plant morphology trait	PPTO:0000009
+PPTO:0001024	kernel percent	yield trait	PPTO:0000010
+PPTO:0001025	glume color	plant morphology trait	PPTO:0000009
+PPTO:0001026	plant dry weight	plant morphology trait	PPTO:0000009
+PPTO:0001027	potassium uptake	biological process trait	PPTO:0000008
+PPTO:0001028	grain density	plant morphology trait	PPTO:0000009
+PPTO:0001029	spike width	plant morphology trait	PPTO:0000009
+PPTO:0001030	fusarium head blight resistance	biotic stress trait	PPTO:0000007
+PPTO:0001031	petiole length	plant morphology trait	PPTO:0000009
+PPTO:0001032	fruit diameter	plant morphology trait	PPTO:0000009
+PPTO:0001033	grain weight	plant morphology trait	PPTO:0000009
+PPTO:0001034	fruit size	plant morphology trait	PPTO:0000009
+PPTO:0001035	seed maturation	plant growth and development trait	PPTO:0000006
+PPTO:0001036	peduncle length	plant morphology trait	PPTO:0000009
+PPTO:0001037	total water soluble content	biochemical trait	PPTO:0000004
+PPTO:0001038	grain surface area	plant quality trait	PPTO:0000005
+PPTO:0001039	spike weight	plant morphology trait	PPTO:0000009
+PPTO:0001040	spike dry weight	plant morphology trait	PPTO:0000009
+PPTO:0001041	leaf area index	plant morphology trait	PPTO:0000009
+PPTO:0001042	shoot system potassium content	biochemical trait	PPTO:0000004
+PPTO:0001043	glume pubescence	plant morphology trait	PPTO:0000009
+PPTO:0001044	spot blotch disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0001045	stripe rust disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0001046	leaf rust disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0001047	powdery mildew disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0001048	grain hardness	plant morphology trait	PPTO:0000009
+PPTO:0001049	semolina color trait	plant morphology trait	PPTO:0000009
+PPTO:0001050	russian wheat aphid damage trait	biotic stress trait	PPTO:0000007
+PPTO:0001051	flour sds-sedimentation	plant quality trait	PPTO:0000005
+PPTO:0001052	wheat flour yellowness trait	plant quality trait	PPTO:0000005
+PPTO:0001053	leaf rust severity trait	biotic stress trait	PPTO:0000007
+PPTO:0001054	stripe rust severity trait	biotic stress trait	PPTO:0000007
+PPTO:0001055	anther extrusion	plant growth and development trait	PPTO:0000006
+PPTO:0001056	axial root length	plant morphology trait	PPTO:0000009
+PPTO:0001057	axial root surface area	plant morphology trait	PPTO:0000009
+PPTO:0001058	axial root volume	plant morphology trait	PPTO:0000009
+PPTO:0001059	biomass accumulation	plant morphology trait	PPTO:0000009
+PPTO:0001060	branching density	plant morphology trait	PPTO:0000009
+PPTO:0001061	branching frequency	plant morphology trait	PPTO:0000009
+PPTO:0001062	carbon-partitioning dynamics	plant vigor trait	PPTO:0000011
+PPTO:0001063	common bunt resistance	biotic stress trait	PPTO:0000007
+PPTO:0001064	days to initiation of booting	plant growth and development trait	PPTO:0000006
+PPTO:0001065	diameter of the first internode	plant morphology trait	PPTO:0000009
+PPTO:0001066	diameter of the second internode	plant morphology trait	PPTO:0000009
+PPTO:0001067	effective spike number per plant	plant quality trait	PPTO:0000005
+PPTO:0001068	flag leaf dry biomass	plant morphology trait	PPTO:0000009
+PPTO:0001069	flag leaf fresh biomass	plant morphology trait	PPTO:0000009
+PPTO:0001070	flag leaf glaucousness	plant morphology trait	PPTO:0000009
+PPTO:0001071	flour content	plant quality trait	PPTO:0000005
+PPTO:0001072	flour lightness	plant quality trait	PPTO:0000005
+PPTO:0001073	flour redness	plant quality trait	PPTO:0000005
+PPTO:0001074	fractional green canopy cover	plant morphology trait	PPTO:0000009
+PPTO:0001075	fusarium crown rot resistance	biotic stress trait	PPTO:0000007
+PPTO:0001076	fusarium head blight average percentage of spike with visual symptoms of infection	biotic stress trait	PPTO:0000007
+PPTO:0001077	fusarium head blight index	biotic stress trait	PPTO:0000007
+PPTO:0001078	fusarium head blight percentage of spikes showing symptoms	biotic stress trait	PPTO:0000007
+PPTO:0001079	fusarium head blight severity	biotic stress trait	PPTO:0000007
+PPTO:0001080	grain lithium concentration	biochemical trait	PPTO:0000004
+PPTO:0001081	greenness index	plant morphology trait	PPTO:0000009
+PPTO:0001082	growing degree-days	plant growth and development trait	PPTO:0000006
+PPTO:0001083	height to width ratio	plant morphology trait	PPTO:0000009
+PPTO:0001084	kernel circularity	plant morphology trait	PPTO:0000009
+PPTO:0001085	kernel perimeter length	plant morphology trait	PPTO:0000009
+PPTO:0001086	lateral to axial root length ratio	plant morphology trait	PPTO:0000009
+PPTO:0001087	lateral to axial root volume ratio	plant morphology trait	PPTO:0000009
+PPTO:0001088	lateral root surface area	plant morphology trait	PPTO:0000009
+PPTO:0001089	lateral root volume	plant morphology trait	PPTO:0000009
+PPTO:0001090	leaf color chart	plant morphology trait	PPTO:0000009
+PPTO:0001091	leaf succulence	plant quality trait	PPTO:0000005
+PPTO:0001092	leaf water content	biochemical trait	PPTO:0000004
+PPTO:0001093	length of the first internode	plant morphology trait	PPTO:0000009
+PPTO:0001094	light interception 40 days after emergence	plant growth and development trait	PPTO:0000006
+PPTO:0001095	liter weight	plant growth and development trait	PPTO:0000006
+PPTO:0001096	multiple disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0001097	near completion of leaf senescence	biological process trait	PPTO:0000008
+PPTO:0001098	parastagonospora nodorum resistance	biotic stress trait	PPTO:0000007
+PPTO:0001099	percent fertile spikelet number per spike	sterility or fertility trait	PPTO:0000012
+PPTO:0001100	percent flag leaf area disease score	biotic stress trait	PPTO:0000007
+PPTO:0001101	percent leaf area disease score	biotic stress trait	PPTO:0000007
+PPTO:0001102	root lesion nematode pratylenchus thornei resistance	biotic stress trait	PPTO:0000007
+PPTO:0001103	root mass fraction	plant morphology trait	PPTO:0000009
+PPTO:0001104	root tissue density	plant morphology trait	PPTO:0000009
+PPTO:0001105	root width	plant morphology trait	PPTO:0000009
+PPTO:0001106	salt tolerance index of germination rate	abiotic stress trait	PPTO:0000013
+PPTO:0001107	salt tolerance index of k+ /na+ ratio	abiotic stress trait	PPTO:0000013
+PPTO:0001108	salt tolerance index of plant height	abiotic stress trait	PPTO:0000013
+PPTO:0001109	salt tolerance index of root length	abiotic stress trait	PPTO:0000013
+PPTO:0001110	salt tolerance index of root number	abiotic stress trait	PPTO:0000013
+PPTO:0001111	salt tolerance index of shoot length	abiotic stress trait	PPTO:0000013
+PPTO:0001112	salt tolerance index of shoot na+ content	abiotic stress trait	PPTO:0000013
+PPTO:0001113	seedling resistance to leaf rust	biotic stress trait	PPTO:0000007
+PPTO:0001114	seedling resistance to powdery mildew	biotic stress trait	PPTO:0000007
+PPTO:0001115	seedling resistance to stripe rust	biotic stress trait	PPTO:0000007
+PPTO:0001116	seminal root dry weight	plant morphology trait	PPTO:0000009
+PPTO:0001117	shoot width	plant morphology trait	PPTO:0000009
+PPTO:0001118	specific root length	plant morphology trait	PPTO:0000009
+PPTO:0001119	specific root respiration per root length	plant morphology trait	PPTO:0000009
+PPTO:0001120	specific root respiration per root mass	plant morphology trait	PPTO:0000009
+PPTO:0001121	specific root respiration residual	plant morphology trait	PPTO:0000009
+PPTO:0001122	spike compactness	yield trait	PPTO:0000010
+PPTO:0001123	spike fertility	plant morphology trait	PPTO:0000009
+PPTO:0001124	spike harvest index	plant morphology trait	PPTO:0000009
+PPTO:0001126	spike percentage	plant morphology trait	PPTO:0000009
+PPTO:0001127	stagonospora nodorum blotch resistance	biotic stress trait	PPTO:0000007
+PPTO:0001128	stem rust resistance	biotic stress trait	PPTO:0000007
+PPTO:0001129	tan spot resistance	biotic stress trait	PPTO:0000007
+PPTO:0001130	stem thrust	plant morphology trait	PPTO:0000009
+PPTO:0001131	tiller dry weight	plant morphology trait	PPTO:0000009
+PPTO:0001132	root topology	plant morphology trait	PPTO:0000009
+PPTO:0001133	total amylase trypsin inhibitor content	biochemical trait	PPTO:0000004
+PPTO:0001134	root respiration ratio	biological process trait	PPTO:0000008
+PPTO:0001136	winter survival rate	plant vigor trait	PPTO:0000011
+PPTO:0001137	water absorption	plant quality trait	PPTO:0000005
+PPTO:0001138	water index	plant quality trait	PPTO:0000005
+PPTO:0001139	wet gluten content	biochemical trait	PPTO:0000004
+PPTO:0001140	whitehead percentage	biotic stress trait	PPTO:0000007
+PPTO:0001141	winter survival index	plant vigor trait	PPTO:0000011
+PPTO:0001143	local adaptation	biological process trait	PPTO:0000008
+PPTO:0001144	awn suppression	plant morphology trait	PPTO:0000009
+PPTO:0001145	crown rot severity index	biotic stress trait	PPTO:0000007
+PPTO:0001146	dimeric amylase trypsin inhibitor content	biochemical trait	PPTO:0000004
+PPTO:0001147	dough stability time	plant quality trait	PPTO:0000005
+PPTO:0001148	factor form density	plant morphology trait	PPTO:0000009
+PPTO:0001149	fertility period	plant growth and development trait	PPTO:0000006
+PPTO:0001150	final canopy height	plant morphology trait	PPTO:0000009
+PPTO:0001151	grain copper concentration	plant morphology trait	PPTO:0000009
+PPTO:0001152	grain filling duration	plant growth and development trait	PPTO:0000006
+PPTO:0001153	hessian fly resistance	biotic stress trait	PPTO:0000007
+PPTO:0001154	disease infection type	biotic stress trait	PPTO:0000007
+PPTO:0001155	resistance to striga	biotic stress trait	PPTO:0000007
+PPTO:0001156	monomeric amylase trypsin inhibitor content	biochemical trait	PPTO:0000004
+PPTO:0001157	nonstructural carbohydrates	biochemical trait	PPTO:0000004
+PPTO:0001158	number of branching points	plant morphology trait	PPTO:0000009
+PPTO:0001159	number of ears per plant	plant morphology trait	PPTO:0000009
+PPTO:0001160	number of forks	plant morphology trait	PPTO:0000009
+PPTO:0001161	percent grain filling duration	plant growth and development trait	PPTO:0000006
+PPTO:0001162	phosphorus utilization efficiency	biological process trait	PPTO:0000008
+PPTO:0001163	plant senescence reflectance index	biological process trait	PPTO:0000008
+PPTO:0001164	plant waxiness	plant morphology trait	PPTO:0000009
+PPTO:0001165	polyphenol oxidase enzymes activity	biological process trait	PPTO:0000008
+PPTO:0001166	pup loaf volume	yield trait	PPTO:0000010
+PPTO:0001167	radiation use efficiency	biological process trait	PPTO:0000008
+PPTO:0001168	rapid spike growth phase	plant growth and development trait	PPTO:0000006
+PPTO:0001169	rates of net co2 assimilation	biological process trait	PPTO:0000008
+PPTO:0001170	sedimentation volume	biological process trait	PPTO:0000008
+PPTO:0001171	seedling recovery	abiotic stress trait	PPTO:0000013
+PPTO:0001172	spike-bearing tiller percentage	plant growth and development trait	PPTO:0000006
+PPTO:0001173	stay-green integral	plant growth and development trait	PPTO:0000006
+PPTO:0001174	superoxide dismutase	biochemical trait	PPTO:0000004
+PPTO:0001175	temperature-irresponsive stem elongation rates	plant growth and development trait	PPTO:0000006
+PPTO:0001176	temperature-responsive stem elongation rates	plant growth and development trait	PPTO:0000006
+PPTO:0001177	tetrameric amylase trypsin inhibitor content	biochemical trait	PPTO:0000004
+PPTO:0001178	linolenic acid content	biochemical trait	PPTO:0000004
+PPTO:0001179	seedling height	plant morphology trait	PPTO:0000009
+PPTO:0001180	phosphorus content	biochemical trait	PPTO:0000004
+PPTO:0001181	root cross sectional area	plant morphology trait	PPTO:0000009
+PPTO:0001182	number of metaxylem vessels	plant morphology trait	PPTO:0000009
+PPTO:0001183	shoot system phosphorus content	biochemical trait	PPTO:0000004
+PPTO:0001184	charcoal rot incidence trait	abiotic stress trait	PPTO:0000013
+PPTO:0001185	grain boron concentration	biochemical trait	PPTO:0000004
+PPTO:0001186	coleoptile dry weight	plant morphology trait	PPTO:0000009
+PPTO:0001187	coleoptile to root dry weight ratio	plant morphology trait	PPTO:0000009
+PPTO:0001188	coleoptile to root length ratio	plant morphology trait	PPTO:0000009
+PPTO:0001189	hairy-leaf	plant morphology trait	PPTO:0000009
+PPTO:0001190	malondialdehyde content	biochemical trait	PPTO:0000004
+PPTO:0001191	radicle length	plant morphology trait	PPTO:0000009
+PPTO:0001192	relative conductivity	abiotic stress trait	PPTO:0000013
+PPTO:0001193	common rust resistance	biotic stress trait	PPTO:0000007
+PPTO:0001194	root bottom angle	plant morphology trait	PPTO:0000009
+PPTO:0001195	root to shoot dry weight ratio	plant morphology trait	PPTO:0000009
+PPTO:0001196	root skeleton width	plant morphology trait	PPTO:0000009
+PPTO:0001197	root top angle	plant morphology trait	PPTO:0000009
+PPTO:0001198	silique number from branch inflorescence	plant morphology trait	PPTO:0000009
+PPTO:0001199	silique number from main inflorescence	plant morphology trait	PPTO:0000009
+PPTO:0001200	silique number from whole plant	plant morphology trait	PPTO:0000009
+PPTO:0001201	superoxide dismutase activity	biological process trait	PPTO:0000008
+PPTO:0001202	anther color	plant morphology trait	PPTO:0000009
+PPTO:0001203	heat tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0001204	flowering time trait	plant morphology trait	PPTO:0000009
+PPTO:0001205	leaf sheath color	plant morphology trait	PPTO:0000009
+PPTO:0001206	plant width	plant morphology trait	PPTO:0000009
+PPTO:0001207	chickpea ascochyta blight resistance	biotic stress trait	PPTO:0000007
+PPTO:0001208	basal axillary secondary branch number	plant morphology trait	PPTO:0000009
+PPTO:0001209	basal axillary primary branch number	plant morphology trait	PPTO:0000009
+PPTO:0001210	apical axillary secondary branch number	plant morphology trait	PPTO:0000009
+PPTO:0001211	apical axillary primary branch number	plant morphology trait	PPTO:0000009
+PPTO:0001212	panicle diameter	plant morphology trait	PPTO:0000009
+PPTO:0001213	peduncle shape	plant morphology trait	PPTO:0000009
+PPTO:0001214	pulvinus color	plant morphology trait	PPTO:0000009
+PPTO:0001215	leaf color of mature plant	plant morphology trait	PPTO:0000009
+PPTO:0001216	leaf color of seedling	plant morphology trait	PPTO:0000009
+PPTO:0001217	shoot apical meristem area	plant morphology trait	PPTO:0000009
+PPTO:0001218	shoot apical meristem height	plant morphology trait	PPTO:0000009
+PPTO:0001219	shoot apical meristem width	plant morphology trait	PPTO:0000009
+PPTO:0001220	total arabinoxylan content	biochemical trait	PPTO:0000004
+PPTO:0001221	water extractable arabinoxylan content	biochemical trait	PPTO:0000004
+PPTO:0001222	broductive branch number	yield trait	PPTO:0000010
+PPTO:0001223	branch number per main stem	plant morphology trait	PPTO:0000009
+PPTO:0001224	branch number per plant	plant morphology trait	PPTO:0000009
+PPTO:0001225	bristle color	plant morphology trait	PPTO:0000009
+PPTO:0001226	bristle length	plant morphology trait	PPTO:0000009
+PPTO:0001227	days to early blooming	plant growth and development trait	PPTO:0000006
+PPTO:0001228	emergence score	plant vigor trait	PPTO:0000011
+PPTO:0001229	empty pod ratio	plant growth and development trait	PPTO:0000006
+PPTO:0001230	growth duration	plant growth and development trait	PPTO:0000006
+PPTO:0001232	normalized difference vegetative index	plant growth and development trait	PPTO:0000006
+PPTO:0001233	red leaf disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0001234	spike shape	plant morphology trait	PPTO:0000009
+PPTO:0001235	tiller maturity	plant growth and development trait	PPTO:0000006
+PPTO:0001236	stem angle	plant morphology trait	PPTO:0000009
+PPTO:0001237	petiole color	plant morphology trait	PPTO:0000009
+PPTO:0001238	tuberous root tuber weight	plant morphology trait	PPTO:0000009
+PPTO:0001239	storage root dry mass content	plant morphology trait	PPTO:0000009
+PPTO:0001240	storage root diameter	plant morphology trait	PPTO:0000009
+PPTO:0001241	cool-paste viscosity at 50 degree	plant quality trait	PPTO:0000005
+PPTO:0001242	peak temperature	plant quality trait	PPTO:0000005
+PPTO:0001243	root mealiness	plant quality trait	PPTO:0000005
+PPTO:0001244	root adhesiveness	plant quality trait	PPTO:0000005
+PPTO:0001245	root aroma	plant quality trait	PPTO:0000005
+PPTO:0001246	root colour	plant quality trait	PPTO:0000005
+PPTO:0001247	root fibre	plant quality trait	PPTO:0000005
+PPTO:0001248	root firmness	plant quality trait	PPTO:0000005
+PPTO:0001249	root taste	plant quality trait	PPTO:0000005
+PPTO:0001250	tuberous root tuber starch content	biochemical trait	PPTO:0000004
+PPTO:0001251	tuberous root tuber epidermal type	plant morphology trait	PPTO:0000009
+PPTO:0001252	tuberous root tuber distribution	plant morphology trait	PPTO:0000009
+PPTO:0001253	stem endothelial color	plant morphology trait	PPTO:0000009
+PPTO:0001254	tuberous root tuber scar	plant morphology trait	PPTO:0000009
+PPTO:0001255	resistant to t. cinnabarinus	biotic stress trait	PPTO:0000007
+PPTO:0001256	postharvest stem germination	plant growth and development trait	PPTO:0000006
+PPTO:0001257	storage root number per plant	plant morphology trait	PPTO:0000009
+PPTO:0001258	storage root amylopectin content	biochemical trait	PPTO:0000004
+PPTO:0001259	storage root shape	plant morphology trait	PPTO:0000009
+PPTO:0001260	storage root starch gelatinization temperature	plant quality trait	PPTO:0000005
+PPTO:0001261	storage root endothelial color	plant morphology trait	PPTO:0000009
+PPTO:0001262	storage root cortex colour	plant morphology trait	PPTO:0000009
+PPTO:0001263	storage root periderm colour	plant morphology trait	PPTO:0000009
+PPTO:0001264	lobular width	plant morphology trait	PPTO:0000009
+PPTO:0001265	lobular length	plant morphology trait	PPTO:0000009
+PPTO:0001266	leaf aspect ratio	plant morphology trait	PPTO:0000009
+PPTO:0001267	first branch height	plant morphology trait	PPTO:0000009
+PPTO:0001268	postharvest storage root hardness	plant quality trait	PPTO:0000005
+PPTO:0001269	chromameter b*	plant morphology trait	PPTO:0000009
+PPTO:0001270	apical leaf colour	plant morphology trait	PPTO:0000009
+PPTO:0001271	apical pubescence	plant morphology trait	PPTO:0000009
+PPTO:0001272	cassava green mite severity	biotic stress trait	PPTO:0000007
+PPTO:0001273	mature leaf greenness	plant morphology trait	PPTO:0000009
+PPTO:0001274	outer stem colour	plant morphology trait	PPTO:0000009
+PPTO:0001275	plant type	plant morphology trait	PPTO:0000009
+PPTO:0001276	color chart	plant quality trait	PPTO:0000005
+PPTO:0001277	hydrogen cyanide content	biochemical trait	PPTO:0000004
+PPTO:0001278	weeping trait	plant morphology trait	PPTO:0000009
+PPTO:0001279	leaf sodium content	biochemical trait	PPTO:0000004
+PPTO:0001280	leaf color	plant morphology trait	PPTO:0000009
+PPTO:0001281	seedling cotyledon color	plant morphology trait	PPTO:0000009
+PPTO:0001282	processing quality trait	plant quality trait	PPTO:0000005
+PPTO:0001283	leaflet number	plant morphology trait	PPTO:0000009
+PPTO:0001284	phosphate content	biochemical trait	PPTO:0000004
+PPTO:0001285	pre-harvest sprouting tolerance	plant growth and development trait	PPTO:0000006
+PPTO:0001286	germination indices	plant growth and development trait	PPTO:0000006
+PPTO:0001287	spike density	plant morphology trait	PPTO:0000009
+PPTO:0001288	glume flexibility	plant morphology trait	PPTO:0000009
+PPTO:0001289	meiotic recombination	biological process trait	PPTO:0000008
+PPTO:0001290	black point response	biotic stress trait	PPTO:0000007
+PPTO:0001291	flour processing quality	biological process trait	PPTO:0000008
+PPTO:0001292	high molecular weight glutenin subunits	biochemical trait	PPTO:0000004
+PPTO:0001293	dough strength	plant quality trait	PPTO:0000005
+PPTO:0001294	spikelet angle	plant morphology trait	PPTO:0000009
+PPTO:0001295	spike elongation	plant morphology trait	PPTO:0000009
+PPTO:0001296	flavone content	biochemical trait	PPTO:0000004
+PPTO:0001297	total thiamine content	biochemical trait	PPTO:0000004
+PPTO:0001298	group a saponins content	biochemical trait	PPTO:0000004
+PPTO:0001299	2,3-dihydro-2,5-dihydroxy-6-methyl-4h-pyran-4-one (ddmp) saponins content	biochemical trait	PPTO:0000004
+PPTO:0001300	seed-coat impermeability	plant quality trait	PPTO:0000005
+PPTO:0001301	herbicide bentazon resistance	abiotic stress trait	PPTO:0000013
+PPTO:0001302	thiamine content	biochemical trait	PPTO:0000004
+PPTO:0001303	lipoxygenase isozymes 2 content	biochemical trait	PPTO:0000004
+PPTO:0001304	trichome development	plant growth and development trait	PPTO:0000006
+PPTO:0001305	genistein-to-daidzein ratio	biochemical trait	PPTO:0000004
+PPTO:0001306	pseudomonas syringae pv. glycinea infection resistance	biotic stress trait	PPTO:0000007
+PPTO:0001307	unsaturated fatty acid content	biochemical trait	PPTO:0000004
+PPTO:0001308	raffinosaccharides content	biochemical trait	PPTO:0000004
+PPTO:0001309	inorganic phosphorus content	biochemical trait	PPTO:0000004
+PPTO:0001310	phytic acid phosphorus content	biochemical trait	PPTO:0000004
+PPTO:0001311	rice seedling blight disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0001312	cell membrane stability	abiotic stress trait	PPTO:0000013
+PPTO:0001313	leaf temperature	plant morphology trait	PPTO:0000009
+PPTO:0001314	anaerobic salt response index	abiotic stress trait	PPTO:0000013
+PPTO:0001315	cadmium-mediated growth response	abiotic stress trait	PPTO:0000013
+PPTO:0001316	head rice recovery	yield trait	PPTO:0000010
+PPTO:0001317	internode diameter	plant morphology trait	PPTO:0000009
+PPTO:0001318	fermentable sugar content	biochemical trait	PPTO:0000004
+PPTO:0001319	floret pubescence	plant morphology trait	PPTO:0000009
+PPTO:0001320	grain circumferences	plant morphology trait	PPTO:0000009
+PPTO:0001321	grain silica concentration	biochemical trait	PPTO:0000004
+PPTO:0001322	linear elongation ratio	plant quality trait	PPTO:0000005
+PPTO:0001323	relative chlorophyll b content	abiotic stress trait	PPTO:0000013
+PPTO:0001324	relative root thickness	abiotic stress trait	PPTO:0000013
+PPTO:0001325	relative shoot thickness	abiotic stress trait	PPTO:0000013
+PPTO:0001326	mixed-linkage β-glucan content	biochemical trait	PPTO:0000004
+PPTO:0001327	outer diameter of the minor axis	plant morphology trait	PPTO:0000009
+PPTO:0001328	plant water content	biochemical trait	PPTO:0000004
+PPTO:0001329	predicted glycemic index	biochemical trait	PPTO:0000004
+PPTO:0001330	relative germination energy	abiotic stress trait	PPTO:0000013
+PPTO:0001331	relative mean germination time	abiotic stress trait	PPTO:0000013
+PPTO:0001332	relative vigor index	abiotic stress trait	PPTO:0000013
+PPTO:0001333	relative stress damage rate of panicle length	abiotic stress trait	PPTO:0000013
+PPTO:0001334	relative stress damage rate of seed-setting rate	abiotic stress trait	PPTO:0000013
+PPTO:0001335	relative total root surface area	abiotic stress trait	PPTO:0000013
+PPTO:0001336	relative total root volume	abiotic stress trait	PPTO:0000013
+PPTO:0001337	relative chlorophyll fluorescence parameters	abiotic stress trait	PPTO:0000013
+PPTO:0001338	relative death rate	abiotic stress trait	PPTO:0000013
+PPTO:0001339	relative sodium content	abiotic stress trait	PPTO:0000013
+PPTO:0001340	seed storability	biological process trait	PPTO:0000008
+PPTO:0001341	shoot thickness	plant morphology trait	PPTO:0000009
+PPTO:0001342	stem inner diameter	plant morphology trait	PPTO:0000009
+PPTO:0001343	stem wall thickness	plant morphology trait	PPTO:0000009
+PPTO:0001344	straighthead disorder severity rate	plant morphology trait	PPTO:0000009
+PPTO:0001345	white core rice kernel	plant morphology trait	PPTO:0000009
+PPTO:0001346	boll number	yield trait	PPTO:0000010
+PPTO:0001347	boll opening days	plant growth and development trait	PPTO:0000006
+PPTO:0001348	fiber yield	yield trait	PPTO:0000010
+PPTO:0001349	first boll opening	plant growth and development trait	PPTO:0000006
+PPTO:0001350	fusarium wilt resistance	biotic stress trait	PPTO:0000007
+PPTO:0001351	germination weight	plant growth and development trait	PPTO:0000006
+PPTO:0001352	first fruiting branch node height	yield trait	PPTO:0000010
+PPTO:0001353	lint weight	plant quality trait	PPTO:0000005
+PPTO:0001354	lint yield	plant quality trait	PPTO:0000005
+PPTO:0001355	node of the first fruiting branch	yield trait	PPTO:0000010
+PPTO:0001356	nodes above white flower	yield trait	PPTO:0000010
+PPTO:0001357	number of fruit branches	yield trait	PPTO:0000010
+PPTO:0001358	number of open bolls	yield trait	PPTO:0000010
+PPTO:0001359	relative boll weight	abiotic stress trait	PPTO:0000013
+PPTO:0001360	root to shoot fresh weight ratio	plant morphology trait	PPTO:0000009
+PPTO:0001361	root water content	biochemical trait	PPTO:0000004
+PPTO:0001362	short fiber content	biochemical trait	PPTO:0000004
+PPTO:0001363	total water content	biochemical trait	PPTO:0000004
+PPTO:0001364	yield percentage before frost	plant growth and development trait	PPTO:0000006
+PPTO:0001365	germination temperature	plant growth and development trait	PPTO:0000006
+PPTO:0001366	panicle length to width ratio	plant morphology trait	PPTO:0000009
+PPTO:0001367	peduncle recurving	plant morphology trait	PPTO:0000009
+PPTO:0001368	dry mass fraction	plant morphology trait	PPTO:0000009
+PPTO:0001369	stomatal density	biological process trait	PPTO:0000008
+PPTO:0001370	ratio of intracelluar to ambient co2	biological process trait	PPTO:0000008
+PPTO:0001371	seed oligosaccharide content	biochemical trait	PPTO:0000004
+PPTO:0001372	soyasaponin biosynthesis	biological process trait	PPTO:0000008
+PPTO:0001373	phytate content	biochemical trait	PPTO:0000004
+PPTO:0001374	resistance to abiotic stress	abiotic stress trait	PPTO:0000013
+PPTO:0001375	palmitate content	biochemical trait	PPTO:0000004
+PPTO:0001376	pod aroma	plant morphology trait	PPTO:0000009
+PPTO:0001378	black point resistance	biotic stress trait	PPTO:0000007
+PPTO:0001377	stem color	plant morphology trait	PPTO:0000009
+PPTO:0001379	leaf water potential	abiotic stress trait	PPTO:0000013
+PPTO:0001380	leaf nitrogen content	biochemical trait	PPTO:0000004
+PPTO:0001381	plant volume	plant morphology trait	PPTO:0000009
+PPTO:0001382	leaf wet weight	plant morphology trait	PPTO:0000009
+PPTO:0001383	legume fruit shattering	plant quality trait	PPTO:0000005
+PPTO:0001384	leaflet area	plant morphology trait	PPTO:0000009
+PPTO:0001385	leaflet length	plant morphology trait	PPTO:0000009
+PPTO:0001386	leaflet width	plant morphology trait	PPTO:0000009
+PPTO:0001387	fruit shape	plant morphology trait	PPTO:0000009
+PPTO:0001388	carbon isotope discrimination	biochemical trait	PPTO:0000004
+PPTO:0001389	shoot growth angle	plant morphology trait	PPTO:0000009
+PPTO:0001390	leaf carbon content	biochemical trait	PPTO:0000004
+PPTO:0001391	aphid resistance	biotic stress trait	PPTO:0000007
+PPTO:0001392	resistance to fusarium wilt	biotic stress trait	PPTO:0000007
+PPTO:0001393	level of phenylalanine directly derived glucosinolates	biochemical trait	PPTO:0000004
+PPTO:0001394	level of phenylalanine un-directly derived glucosinolates	biochemical trait	PPTO:0000004
+PPTO:0001395	seed yield of five pods	yield trait	PPTO:0000010
+PPTO:0001396	tipburn resistance	abiotic stress trait	PPTO:0000013
+PPTO:0001397	dead plants per pot	abiotic stress trait	PPTO:0000013
+PPTO:0001398	fresh leaf biomass	yield trait	PPTO:0000010
+PPTO:0001399	relative fresh leaf biomass	yield trait	PPTO:0000010
+PPTO:0001400	relative fresh stem biomass	yield trait	PPTO:0000010
+PPTO:0001401	relative total above-ground fresh biomass	yield trait	PPTO:0000010
+PPTO:0001402	critical soil water content	biological process trait	PPTO:0000008
+PPTO:0001403	slope of transpiration rate declining	biological process trait	PPTO:0000008
+PPTO:0001404	growth habit change	abiotic stress trait	PPTO:0000013
+PPTO:0001405	relative maturity	abiotic stress trait	PPTO:0000013
+PPTO:0001406	iron deficiency chlorosis resistance	abiotic stress trait	PPTO:0000013
+PPTO:0001407	relative number of branches	plant morphology trait	PPTO:0000009
+PPTO:0001408	relative node number of the main stem	plant morphology trait	PPTO:0000009
+PPTO:0001409	relative number of pods per plant	plant morphology trait	PPTO:0000009
+PPTO:0001410	relative pod length	plant morphology trait	PPTO:0000009
+PPTO:0001411	relative number of seeds per pod	plant morphology trait	PPTO:0000009
+PPTO:0001412	relative number of seeds per plant	plant morphology trait	PPTO:0000009
+PPTO:0001413	relative days of growth period	plant morphology trait	PPTO:0000009
+PPTO:0001414	relative days to flowering	plant morphology trait	PPTO:0000009
+PPTO:0001415	relative days to pod initiation	plant morphology trait	PPTO:0000009
+PPTO:0001416	pod width	plant morphology trait	PPTO:0000009
+PPTO:0001417	bruchid resistance	biotic stress trait	PPTO:0000007
+PPTO:0001418	days to first flower	plant growth and development trait	PPTO:0000006
+PPTO:0001419	hypocotyl and epicotyl length	plant morphology trait	PPTO:0000009
+PPTO:0001420	isovitexin content	biochemical trait	PPTO:0000004
+PPTO:0001421	main stem diameter	plant morphology trait	PPTO:0000009
+PPTO:0001422	node number of main stem	plant morphology trait	PPTO:0000009
+PPTO:0001423	fruit color	plant morphology trait	PPTO:0000009
+PPTO:0001425	trilobata leaf color	plant morphology trait	PPTO:0000009
+PPTO:0001426	vitexin content	biochemical trait	PPTO:0000004
+PPTO:0001427	days to 100% flowering	plant growth and development trait	PPTO:0000006
+PPTO:0001428	continuous storage root formation and bulking	plant growth and development trait	PPTO:0000006
+PPTO:0001429	discontinuous storage root formation and bulking	plant growth and development trait	PPTO:0000006
+PPTO:0001430	fusarium root rot resistance	biotic stress trait	PPTO:0000007
+PPTO:0001431	tree diameter at breast height	plant morphology trait	PPTO:0000009
+PPTO:0001432	leaf circularity	plant morphology trait	PPTO:0000009
+PPTO:0001433	leaf stomatal density	plant morphology trait	PPTO:0000009
+PPTO:0001434	intermediate wood vessel size	plant morphology trait	PPTO:0000009
+PPTO:0001435	wood adenosine content	biochemical trait	PPTO:0000004
+PPTO:0001436	leaf carbon to nitrogen ratio	biochemical trait	PPTO:0000004
+PPTO:0001437	wood 5-carbon sugars content	biochemical trait	PPTO:0000004
+PPTO:0001438	wood 6-carbon sugars content	biochemical trait	PPTO:0000004
+PPTO:0001439	leaf δ 15n	biochemical trait	PPTO:0000004
+PPTO:0001440	days to bud flush	plant growth and development trait	PPTO:0000006
+PPTO:0001441	wood galactonic acid content	biochemical trait	PPTO:0000004
+PPTO:0001442	wood galactinol content	biochemical trait	PPTO:0000004
+PPTO:0001443	wood 4-hydroxybenzoic acid content	biochemical trait	PPTO:0000004
+PPTO:0001444	nitrogen contern per specific leaf area	biochemical trait	PPTO:0000004
+PPTO:0001445	wood syringil:guayacil ratio	biochemical trait	PPTO:0000004
+PPTO:0001446	wood alpha tocopherol content	biochemical trait	PPTO:0000004
+PPTO:0001447	plant volume index	plant morphology trait	PPTO:0000009
+PPTO:0001448	adaxial to abaxial stomatal ratio	plant morphology trait	PPTO:0000009
+PPTO:0001449	adaxial stomatal pore length	plant morphology trait	PPTO:0000009
+PPTO:0001450	adaxial to abaxial stomatal pore ration	plant morphology trait	PPTO:0000009
+PPTO:0001451	adaxial stomatal pore index	plant morphology trait	PPTO:0000009
+PPTO:0001452	petiole diameter	plant morphology trait	PPTO:0000009
+PPTO:0001453	callus formation	plant vigor trait	PPTO:0000011
+PPTO:0001454	callus rating	plant vigor trait	PPTO:0000011
+PPTO:0001455	bud break	plant vigor trait	PPTO:0000011
+PPTO:0001456	adaxial stomata presence	plant morphology trait	PPTO:0000009
+PPTO:0001457	adaxial stomata numbers	plant morphology trait	PPTO:0000009
+PPTO:0001458	adaxial stomata distribution	plant morphology trait	PPTO:0000009
+PPTO:0001459	100% yellowing	plant growth and development trait	PPTO:0000006
+PPTO:0001460	25% yellowing	plant growth and development trait	PPTO:0000006
+PPTO:0001461	75% yellowing	plant growth and development trait	PPTO:0000006
+PPTO:0001462	photosynthetic rate per unit dry mass	plant morphology trait	PPTO:0000009
+PPTO:0001463	bole fresh mass	plant morphology trait	PPTO:0000009
+PPTO:0001464	bud set	plant growth and development trait	PPTO:0000006
+PPTO:0001465	plant height gain	plant growth and development trait	PPTO:0000006
+PPTO:0001466	height growth cessation	plant growth and development trait	PPTO:0000006
+PPTO:0001467	leaf drop	plant growth and development trait	PPTO:0000006
+PPTO:0001468	leaf flush	plant growth and development trait	PPTO:0000006
+PPTO:0001469	leaf lifespan	plant growth and development trait	PPTO:0000006
+PPTO:0001470	leaves per bud	plant morphology trait	PPTO:0000009
+PPTO:0001471	leaf mass per unit area	plant morphology trait	PPTO:0000009
+PPTO:0001472	plant volume gain	plant growth and development trait	PPTO:0000006
+PPTO:0001473	vein density	plant morphology trait	PPTO:0000009
+PPTO:0001474	wood alpha cellulose percentage	biochemical trait	PPTO:0000004
+PPTO:0001475	wood arabinose percentage	biochemical trait	PPTO:0000004
+PPTO:0001476	average wood density	biochemical trait	PPTO:0000004
+PPTO:0001477	cell wall crystallinity	biochemical trait	PPTO:0000004
+PPTO:0001478	cellulose fiber length	biochemical trait	PPTO:0000004
+PPTO:0001479	wood glucose sugar percentage	biochemical trait	PPTO:0000004
+PPTO:0001480	wood hemicellulose percentage	biochemical trait	PPTO:0000004
+PPTO:0001481	wood holocellulose percentage	biochemical trait	PPTO:0000004
+PPTO:0001482	wood insolubel lignin percentage	biochemical trait	PPTO:0000004
+PPTO:0001483	wood mannose percentage	biochemical trait	PPTO:0000004
+PPTO:0001484	microfibril angle	biochemical trait	PPTO:0000004
+PPTO:0001485	wood soluble lignin percentage	biochemical trait	PPTO:0000004
+PPTO:0001486	wood syringyl lignin content	biochemical trait	PPTO:0000004
+PPTO:0001487	wood total lignin percentage	biochemical trait	PPTO:0000004
+PPTO:0001488	wood xylose percentage	biochemical trait	PPTO:0000004
+PPTO:0001489	flower morphology	plant morphology trait	PPTO:0000009
+PPTO:0001490	pod harvest index	yield trait	PPTO:0000010
+PPTO:0001491	quercetin 3-o-acetylglucoside content	biochemical trait	PPTO:0000004
+PPTO:0001492	delphinidin 3-o-glucoside content	biochemical trait	PPTO:0000004
+PPTO:0001493	malvidin 3-o-glucoside content	biochemical trait	PPTO:0000004
+PPTO:0001494	myricetin 3-o-glucoside content	biochemical trait	PPTO:0000004
+PPTO:0001495	quercetin 3-o-glucoside content	biochemical trait	PPTO:0000004
+PPTO:0001496	kaempherol 3-o-acetilglucoside_ii content	biochemical trait	PPTO:0000004
+PPTO:0001497	kaempferol 3-o-glucoside content	biochemical trait	PPTO:0000004
+PPTO:0001498	cyanindin 3-o-glucoside content	biochemical trait	PPTO:0000004
+PPTO:0001499	petunidin 3-o-glucoside content	biochemical trait	PPTO:0000004
+PPTO:0001500	seed coat color b*	plant morphology trait	PPTO:0000009
+PPTO:0001501	seed coat color a*	plant morphology trait	PPTO:0000009
+PPTO:0001502	seed coat color l*	plant morphology trait	PPTO:0000009
+PPTO:0001503	resistance to white mold	biotic stress trait	PPTO:0000007
+PPTO:0001504	ashy stem blight disease severity	biotic stress trait	PPTO:0000007
+PPTO:0001505	climbing growth habit	plant morphology trait	PPTO:0000009
+PPTO:0001506	seed diameter	plant morphology trait	PPTO:0000009
+PPTO:0001507	pod weight	yield trait	PPTO:0000010
+PPTO:0001508	days to flower bud initiation	plant growth and development trait	PPTO:0000006
+PPTO:0001509	seed magnesium content	biochemical trait	PPTO:0000004
+PPTO:0001510	pod suture string length to pod length	plant morphology trait	PPTO:0000009
+PPTO:0001511	pod suture string status	plant morphology trait	PPTO:0000009
+PPTO:0001512	seed fat content	biochemical trait	PPTO:0000004
+PPTO:0001513	seed ash content	biochemical trait	PPTO:0000004
+PPTO:0001514	seed fibre content	biochemical trait	PPTO:0000004
+PPTO:0001515	seed carbohydrates content	biochemical trait	PPTO:0000004
+PPTO:0001516	seed resistant starch content	biochemical trait	PPTO:0000004
+PPTO:0001517	seed aspartic acid content	biochemical trait	PPTO:0000004
+PPTO:0001518	trypsin inhibitor activity	biochemical trait	PPTO:0000004
+PPTO:0001519	tyrosine content	biochemical trait	PPTO:0000004
+PPTO:0001520	seed height	plant morphology trait	PPTO:0000009
+PPTO:0001521	first pod height	plant morphology trait	PPTO:0000009
+PPTO:0001522	seed folate content	biochemical trait	PPTO:0000004
+PPTO:0001523	relative average root diameter(cm)	abiotic stress trait	PPTO:0000013
+PPTO:0001524	relative number of root forks	abiotic stress trait	PPTO:0000013
+PPTO:0001525	relative number of links	abiotic stress trait	PPTO:0000013
+PPTO:0001526	full bloom date	plant growth and development trait	PPTO:0000006
+PPTO:0001527	main stem number	plant morphology trait	PPTO:0000009
+PPTO:0001528	whole grow period	plant growth and development trait	PPTO:0000006
+PPTO:0001529	seed circular degree	plant morphology trait	PPTO:0000009
+PPTO:0001530	seed wing occurrence	plant morphology trait	PPTO:0000009
+PPTO:0001531	seed kaempferol-3-o-rutinoside content	biochemical trait	PPTO:0000004
+PPTO:0001532	seed quercetin content	biochemical trait	PPTO:0000004
+PPTO:0001533	mature leaf texture	plant morphology trait	PPTO:0000009
+PPTO:0001534	mature leaf size	plant morphology trait	PPTO:0000009
+PPTO:0001535	leaf catechin content	biochemical trait	PPTO:0000004
+PPTO:0001536	leaf epicatechin content	biochemical trait	PPTO:0000004
+PPTO:0001537	leaf ppicatechin gallate content	biochemical trait	PPTO:0000004
+PPTO:0001538	leaf epigallocatechin content	biochemical trait	PPTO:0000004
+PPTO:0001539	leaf epigallocatechin gallate content	biochemical trait	PPTO:0000004
+PPTO:0001540	leaf gallocatechin content	biochemical trait	PPTO:0000004
+PPTO:0001541	leaf gallocatechin gallate content	biochemical trait	PPTO:0000004
+PPTO:0001542	leaf gallic acid content	biochemical trait	PPTO:0000004
+PPTO:0001543	geometric mean productivity of grain number per plant	abiotic stress trait	PPTO:0000013
+PPTO:0001544	mean productivity index of grain number per plant	abiotic stress trait	PPTO:0000013
+PPTO:0001545	tolerance index of hundred grain weight	abiotic stress trait	PPTO:0000013
+PPTO:0001546	yield stability index of hundred grain weight	abiotic stress trait	PPTO:0000013
+PPTO:0001547	stress susceptibility index of days to 50% flowering	abiotic stress trait	PPTO:0000013
+PPTO:0001548	tolerance index of days to 50% flowering	abiotic stress trait	PPTO:0000013
+PPTO:0001549	grain carbon to nitrogen ratio	biochemical trait	PPTO:0000004
+PPTO:0001550	mean productivity index of grain carbon content	abiotic stress trait	PPTO:0000013
+PPTO:0001551	tolerance index of grain carbon content	abiotic stress trait	PPTO:0000013
+PPTO:0001552	stress susceptibility index of chlorophyll content	abiotic stress trait	PPTO:0000013
+PPTO:0001553	stress susceptibility index of panicle number	abiotic stress trait	PPTO:0000013
+PPTO:0001554	yield stability index of panicle number	abiotic stress trait	PPTO:0000013
+PPTO:0001555	stress susceptibility index of shoot length	abiotic stress trait	PPTO:0000013
+PPTO:0001556	tolerance index of days to panicle emergence	abiotic stress trait	PPTO:0000013
+PPTO:0001557	yield stability index of days to panicle emergence	abiotic stress trait	PPTO:0000013
+PPTO:0001558	tolerance index of days to maturity	abiotic stress trait	PPTO:0000013
+PPTO:0001559	number of fructified panicles per plant	yield trait	PPTO:0000010
+PPTO:0001560	leaf attitude	plant morphology trait	PPTO:0000009
+PPTO:0001561	root length density	biological process trait	PPTO:0000008
+PPTO:0001562	net blotch resistance	biotic stress trait	PPTO:0000007
+PPTO:0001563	fruit weight	plant morphology trait	PPTO:0000009
+PPTO:0001564	fruit firmness	plant quality trait	PPTO:0000005
+PPTO:0001565	fruit color uniformity	plant quality trait	PPTO:0000005
+PPTO:0001566	fruit crispness	plant quality trait	PPTO:0000005
+PPTO:0001567	fruit juiciness	plant quality trait	PPTO:0000005
+PPTO:0001568	soluble solid content	biochemical trait	PPTO:0000004
+PPTO:0001569	fruit flesh thickness	plant morphology trait	PPTO:0000009
+PPTO:0001570	flesh browning disorder	plant quality trait	PPTO:0000005
+PPTO:0001571	fruit flesh color	plant morphology trait	PPTO:0000009
+PPTO:0001572	malic acid content	biochemical trait	PPTO:0000004
+PPTO:0001573	capsule dehiscence	plant morphology trait	PPTO:0000009
+PPTO:0001574	endocarp thickness	plant morphology trait	PPTO:0000009
+PPTO:0001575	panicle height	plant morphology trait	PPTO:0000009
+PPTO:0001576	ratio of male to female flowers	sterility or fertility trait	PPTO:0000012
+PPTO:0001577	low temperature exotherms	abiotic stress trait	PPTO:0000013
+PPTO:0001578	berry development period	plant growth and development trait	PPTO:0000006
+PPTO:0001579	berry cluster size	yield trait	PPTO:0000010
+PPTO:0001580	berry flesh texture	plant quality trait	PPTO:0000005
+PPTO:0001581	berry flavor	plant quality trait	PPTO:0000005
+PPTO:0001582	late blight resistance	biotic stress trait	PPTO:0000007
+PPTO:0001583	potato cyst nematodes resistance	biotic stress trait	PPTO:0000007
+PPTO:0001584	tuber bruising	plant quality trait	PPTO:0000005
+PPTO:0001585	visual tuber shape	plant morphology trait	PPTO:0000009
+PPTO:0001586	tuber length to width ratio	plant morphology trait	PPTO:0000009
+PPTO:0001587	tuber eye depth	plant morphology trait	PPTO:0000009
+PPTO:0001588	degree of skin russeting texture	plant morphology trait	PPTO:0000009
+PPTO:0001589	tuber grading score	plant morphology trait	PPTO:0000009
+PPTO:0001590	tuber skin color	plant morphology trait	PPTO:0000009
+PPTO:0001591	allantoate content	biochemical trait	PPTO:0000004
+PPTO:0001592	allantoin content	biochemical trait	PPTO:0000004
+PPTO:0001593	asparagine content	biochemical trait	PPTO:0000004
+PPTO:0001594	choline content	biochemical trait	PPTO:0000004
+PPTO:0001595	citrate content	biochemical trait	PPTO:0000004
+PPTO:0001596	cytidine content	biochemical trait	PPTO:0000004
+PPTO:0001597	dehyrdroascorbate content	biochemical trait	PPTO:0000004
+PPTO:0001598	fumarate content	biochemical trait	PPTO:0000004
+PPTO:0001599	gamma-aminobutyric acid content	biochemical trait	PPTO:0000004
+PPTO:0001600	glutamine content	biochemical trait	PPTO:0000004
+PPTO:0001601	guanosine content	biochemical trait	PPTO:0000004
+PPTO:0001602	lactate content	biochemical trait	PPTO:0000004
+PPTO:0001603	malate content	biochemical trait	PPTO:0000004
+PPTO:0001604	myo-inositol content	biochemical trait	PPTO:0000004
+PPTO:0001605	pyroglutamate content	biochemical trait	PPTO:0000004
+PPTO:0001606	quinate content	biochemical trait	PPTO:0000004
+PPTO:0001607	uridine content	biochemical trait	PPTO:0000004
+PPTO:0001608	α-fructose content	biochemical trait	PPTO:0000004
+PPTO:0001609	α-glucose content	biochemical trait	PPTO:0000004
+PPTO:0001610	β-fructose content	biochemical trait	PPTO:0000004
+PPTO:0001611	β-galactose content	biochemical trait	PPTO:0000004
+PPTO:0001612	β-glucose content	biochemical trait	PPTO:0000004
+PPTO:0001613	wart disease resistance	abiotic stress trait	PPTO:0000013
+PPTO:0001614	phytophthora fruit rot resistance	abiotic stress trait	PPTO:0000013
+PPTO:0001615	relative radical length	abiotic stress trait	PPTO:0000013
+PPTO:0001616	cotyledon regeneration ability	plant vigor trait	PPTO:0000011
+PPTO:0001617	cucumber green mottle mosaic virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0001618	cucumber mosaic virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0001619	cucumber vein yellowing virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0001620	papaya ringspot virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0001621	watermelon mosaic virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0001622	zucchini yellowing mosaic virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0001623	beta-ionone content	biochemical trait	PPTO:0000004
+PPTO:0001624	(e)-2-hexenal content	biochemical trait	PPTO:0000004
+PPTO:0001625	(e)-2-pentenal content	biochemical trait	PPTO:0000004
+PPTO:0001626	(e,e)-2,4-decadienal content	biochemical trait	PPTO:0000004
+PPTO:0001627	geranylacetone content	biochemical trait	PPTO:0000004
+PPTO:0001628	guaiacol content	biochemical trait	PPTO:0000004
+PPTO:0001629	hexanal content	biochemical trait	PPTO:0000004
+PPTO:0001630	methylsalicylate content	biochemical trait	PPTO:0000004
+PPTO:0001631	phenylacetaldehyde content	biochemical trait	PPTO:0000004
+PPTO:0001632	1-penten-3-one content	biochemical trait	PPTO:0000004
+PPTO:0001633	2-methyl-1-butanol content	biochemical trait	PPTO:0000004
+PPTO:0001634	3-methyl-1-butanol content	biochemical trait	PPTO:0000004
+PPTO:0001635	6-methyl-5-hepten-2-one content	biochemical trait	PPTO:0000004
+PPTO:0001636	(z)-3-hexen-1-ol content	biochemical trait	PPTO:0000004
+PPTO:0001637	(z)-3-hexenal content	biochemical trait	PPTO:0000004
+PPTO:0001638	fruit color space’s b value	plant morphology trait	PPTO:0000009
+PPTO:0001639	fruit color space’s l value	plant morphology trait	PPTO:0000009
+PPTO:0001640	fruit fasciation	plant morphology trait	PPTO:0000009
+PPTO:0001641	inflorescence forked type	plant morphology trait	PPTO:0000009
+PPTO:0001642	inflorescence uniparous type	plant morphology trait	PPTO:0000009
+PPTO:0001643	fruit locule number	plant morphology trait	PPTO:0000009
+PPTO:0001644	longitudinal stripes	plant morphology trait	PPTO:0000009
+PPTO:0001645	number flowers in second inflorescence	plant morphology trait	PPTO:0000009
+PPTO:0001646	petals curvature	plant morphology trait	PPTO:0000009
+PPTO:0001647	petal length	plant morphology trait	PPTO:0000009
+PPTO:0001648	distal fruit end scar shape	plant morphology trait	PPTO:0000009
+PPTO:0001649	ribbing calyx end	plant morphology trait	PPTO:0000009
+PPTO:0001650	total inflorescences number	plant morphology trait	PPTO:0000009
+PPTO:0001651	fruit hydrotomatidine content	biochemical trait	PPTO:0000004
+PPTO:0001652	the timing of the spring bud flush	plant vigor trait	PPTO:0000011
+PPTO:0001653	low‐temperature tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0001654	oxidative stress tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0001655	smut disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0001656	osmotic stress tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0001657	senescence	plant growth and development trait	PPTO:0000006
+PPTO:0001658	heavy metal tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0001659	resistance against sugarcane streak mosaic virus	biotic stress trait	PPTO:0000007
+PPTO:0001660	biomass saccharification	biological process trait	PPTO:0000008
+PPTO:0001661	fiber biosynthesis	biological process trait	PPTO:0000008
+PPTO:0001662	sucrose partitioning	biochemical trait	PPTO:0000004
+PPTO:0001663	geranial content	biochemical trait	PPTO:0000004
+PPTO:0001664	fruit glucose/fructose ratio	biochemical trait	PPTO:0000004
+PPTO:0001665	benzaldehyde content	biochemical trait	PPTO:0000004
+PPTO:0001666	stalk number	plant morphology trait	PPTO:0000009
+PPTO:0001667	phytochrome biosynthesis	biological process trait	PPTO:0000008
+PPTO:0001668	pigment content	biochemical trait	PPTO:0000004
+PPTO:0001669	inflorescence branching	plant morphology trait	PPTO:0000009
+PPTO:0001670	(1,3;1,4)-beta-d-glucan synthesis	biochemical trait	PPTO:0000004
+PPTO:0001671	root architecture	plant morphology trait	PPTO:0000009
+PPTO:0001672	barley yellow mosaic virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0001673	basal host resistance	biotic stress trait	PPTO:0000007
+PPTO:0001674	broad spectrum resistance to the fungal pathogen	biotic stress trait	PPTO:0000007
+PPTO:0001675	embryo development	plant growth and development trait	PPTO:0000006
+PPTO:0001676	immunity to the seed-borne barley leaf stripe pathogen	biotic stress trait	PPTO:0000007
+PPTO:0001677	inflorescence architecture	plant morphology trait	PPTO:0000009
+PPTO:0001678	lemma width	plant morphology trait	PPTO:0000009
+PPTO:0001679	naked grains	plant morphology trait	PPTO:0000009
+PPTO:0001680	spike rachis node number	plant morphology trait	PPTO:0000009
+PPTO:0001681	sugar and cytokinin transportation	biochemical trait	PPTO:0000004
+PPTO:0001682	transport of organic anions	biochemical trait	PPTO:0000004
+PPTO:0001683	vitamin e biosynthesis	biochemical trait	PPTO:0000004
+PPTO:0001684	waterlogging tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0001685	inflorescence density	plant morphology trait	PPTO:0000009
+PPTO:0001686	main shaft of ear direction	plant morphology trait	PPTO:0000009
+PPTO:0001687	panicle shape	plant morphology trait	PPTO:0000009
+PPTO:0001688	leaf droopiness	plant morphology trait	PPTO:0000009
+PPTO:0001689	osmotic tolerance	abiotic stress trait	PPTO:0000013
+PPTO:0001690	(e)-3,8-dimethyl-1,4,7-nonatriene (dmnt) concentration	biochemical trait	PPTO:0000004
+PPTO:0001691	apical dominance and tiller bud dormancy	plant morphology trait	PPTO:0000009
+PPTO:0001692	axillary meristem development	plant morphology trait	PPTO:0000009
+PPTO:0001693	dimboa-glc content	biochemical trait	PPTO:0000004
+PPTO:0001694	dimboa content	biochemical trait	PPTO:0000004
+PPTO:0001695	ear size	plant morphology trait	PPTO:0000009
+PPTO:0001696	fertility restoration	sterility or fertility trait	PPTO:0000012
+PPTO:0001697	kernel morphology	plant morphology trait	PPTO:0000009
+PPTO:0001698	seed filling	yield trait	PPTO:0000010
+PPTO:0001699	sugary sweet taste	biochemical trait	PPTO:0000004
+PPTO:0001700	sugarcane mosaic virus resistance	biotic stress trait	PPTO:0000007
+PPTO:0001701	tassel architecture and multiple trait	plant morphology trait	PPTO:0000009
+PPTO:0001702	terpenoid concentration	biochemical trait	PPTO:0000004
+PPTO:0001703	tocopherol accumulation	biochemical trait	PPTO:0000004
+PPTO:0001704	vegetative phase change	plant growth and development trait	PPTO:0000006
+PPTO:0001705	yellow endosperm	plant morphology trait	PPTO:0000009
+PPTO:0001706	biosynthesis of sorgoleone (allelochemical)	biochemical trait	PPTO:0000004
+PPTO:0001707	biosynthesis of terpenes and terpenoids	biochemical trait	PPTO:0000004
+PPTO:0001708	grain mould resistance	biotic stress trait	PPTO:0000007
+PPTO:0001709	phosphorus deficiency	abiotic stress trait	PPTO:0000013
+PPTO:0001710	shoot fly resistance	biotic stress trait	PPTO:0000007
+PPTO:0001711	stem juiciness (crop stem texture)	plant morphology trait	PPTO:0000009
+PPTO:0001712	chlorophyll degradation	biochemical trait	PPTO:0000004
+PPTO:0001713	flavonoid biosynthesis	biochemical trait	PPTO:0000004
+PPTO:0001714	inability of the seed coat	plant morphology trait	PPTO:0000009
+PPTO:0001715	isoflavone content	biochemical trait	PPTO:0000004
+PPTO:0001716	plant architecture	plant morphology trait	PPTO:0000009
+PPTO:0001717	seed quality	plant morphology trait	PPTO:0000009
+PPTO:0001718	seed size	plant morphology trait	PPTO:0000009
+PPTO:0001719	haploid induction rate	biological process trait	PPTO:0000008
+PPTO:0001720	leaf architecture	plant morphology trait	PPTO:0000009
+PPTO:0001721	dna double-strand break repair during meiosis	biological process trait	PPTO:0000008
+PPTO:0001722	(1,3;1,4)-beta-glucan biosynthesis	biochemical trait	PPTO:0000004
+PPTO:0001723	nitrate uptake and transport	biological process trait	PPTO:0000008
+PPTO:0001724	cane yield new planting	plant morphology trait	PPTO:0000009
+PPTO:0001725	cane yield ratoon 1yr	plant morphology trait	PPTO:0000009
+PPTO:0001726	cane yield ratooning property ratoon 1yr	plant morphology trait	PPTO:0000009
+PPTO:0001727	cane yield ratooning property ratoon 2yr	plant morphology trait	PPTO:0000009
+PPTO:0001728	plant height new planting	plant morphology trait	PPTO:0000009
+PPTO:0001729	plant height ratoon 1yr	plant morphology trait	PPTO:0000009
+PPTO:0001730	plant height ratooning property ratoon 2yr	plant morphology trait	PPTO:0000009
+PPTO:0001731	stalk diameter new planting	plant morphology trait	PPTO:0000009
+PPTO:0001732	stalk diameter ratoon 1yr	plant morphology trait	PPTO:0000009
+PPTO:0001733	stalk diameter ratooning property ratoon 1yr	plant morphology trait	PPTO:0000009
+PPTO:0001734	stalk diameter ratooning property ratoon 2yr	plant morphology trait	PPTO:0000009
+PPTO:0001735	stalk number new planting	plant morphology trait	PPTO:0000009
+PPTO:0001736	stalk number ratoon 1yr	plant morphology trait	PPTO:0000009
+PPTO:0001737	stalk number ratooning property ratoon 1yr	plant morphology trait	PPTO:0000009
+PPTO:0001738	stalk number ratooning property ratoon 2yr	plant morphology trait	PPTO:0000009
+PPTO:0001739	sucrose content new planting	biochemical trait	PPTO:0000004
+PPTO:0001740	sucrose content ratoon 1yr	biochemical trait	PPTO:0000004
+PPTO:0001741	sucrose content ratoon 2yr	biochemical trait	PPTO:0000004
+PPTO:0001742	sucrose content ratooning property ratoon 1yr	biochemical trait	PPTO:0000004
+PPTO:0001743	sucrose content ratooning property ratoon 2yr	biochemical trait	PPTO:0000004
+PPTO:0001744	sugar yield ratooning property ratoon 1yr	biochemical trait	PPTO:0000004
+PPTO:0001745	sugar yield ratooning property ratoon 2yr	biochemical trait	PPTO:0000004
+PPTO:0001746	spike length	plant morphology trait	PPTO:0000009
+PPTO:0001747	floret fertility	sterility or fertility trait	PPTO:0000012
+PPTO:0001748	leaf photosynthesis	biological process trait	PPTO:0000008
+PPTO:0001749	photosynthesis duration time	biological process trait	PPTO:0000008
+PPTO:0001750	balance of carbon and nitrogen metabolism	biochemical trait	PPTO:0000004
+PPTO:0001751	juice weight	plant morphology trait	PPTO:0000009
+PPTO:0001752	gibberella stalk rot resistance	biotic stress trait	PPTO:0000007
+PPTO:0001753	strigolactone biosynthesis	biochemical trait	PPTO:0000004
+PPTO:0001754	broad-spectrum disease resistance	biotic stress trait	PPTO:0000007
+PPTO:0001755	cadmium efflux and allocation	biochemical trait	PPTO:0000004
+PPTO:0001756	panicle size	plant morphology trait	PPTO:0000009
+PPTO:0001757	size of the starch granule	plant quality trait	PPTO:0000005
+PPTO:0001758	phosphate homeostasis	biochemical trait	PPTO:0000004
+PPTO:0001759	submergence-induced internode elongation	plant growth and development trait	PPTO:0000006
+PPTO:0001760	spikelet development	plant morphology trait	PPTO:0000009
+PPTO:0001761	phenolamides biosynthesis	biochemical trait	PPTO:0000004
+PPTO:0001762	tillering response to nitrogen	plant morphology trait	PPTO:0000009
+PPTO:0001763	grain shape	plant morphology trait	PPTO:0000009
+PPTO:0001764	cell-wall biosynthesis	biochemical trait	PPTO:0000004
+PPTO:0001765	lateral root formation	plant growth and development trait	PPTO:0000006
+PPTO:0001766	floral organ development	plant growth and development trait	PPTO:0000006
+PPTO:0001767	leaf development	plant growth and development trait	PPTO:0000006
+PPTO:0001768	pseudomonas syringae pv. glycinea infection resistance	biotic stress trait	PPTO:0000007
+PPTO:0001769	starch and proteins accumulation in endosperm	biochemical trait	PPTO:0000004
+PPTO:0001770	leaf number above the ear	plant morphology trait	PPTO:0000009
+PPTO:0001771	inflorescence meristem development	plant growth and development trait	PPTO:0000006
+PPTO:0001772	length of main panicle stem	plant morphology trait	PPTO:0000009
+PPTO:0001773	seedling color	plant morphology trait	PPTO:0000009
+PPTO:0001774	grain area size	plant morphology trait	PPTO:0000009
+PPTO:0001775	inflorescence color	plant morphology trait	PPTO:0000009
+PPTO:0001776	hair density of stem and leaf	plant morphology trait	PPTO:0000009
+PPTO:0001777	chaff rate percentage	plant quality trait	PPTO:0000005
+PPTO:0001778	projection on branch base	plant morphology trait	PPTO:0000009
